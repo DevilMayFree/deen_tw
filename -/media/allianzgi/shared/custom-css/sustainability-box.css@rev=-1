@@ -1,0 +1,116 @@
+.boxing-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.boxing-container .boxing-item{
+    width: calc(33.33333% - 30px);
+    margin: 0 15px;
+    text-align: center;
+}
+.boxing-container.two-col .boxing-item{
+    width: calc(50% - 30px);
+}
+
+.boxing-container .boxing-item .boxing-name{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: #0d582d;
+    background: #ccd6cb;
+    height: 140px;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.boxing-container .boxing-item .boxing-name span{
+    font-size: 12px;
+}
+
+.boxing-container .boxing-item .two-btn{
+    display: flex;
+}
+.boxing-container .boxing-item .two-btn .boxing-url {
+    width: 50%;
+}
+.boxing-container .boxing-item .boxing-url:first-child {
+    margin-left: 0;
+}
+.boxing-container .boxing-item .boxing-url {
+    margin-left: 1px;
+}
+
+.boxing-container .boxing-item .boxing-url a{
+    color: #fff;
+    background: #0d582d;
+    font-size: 18px;
+    line-height: 24px;
+    position: relative;
+    padding: 25px 10px;
+    display: block;
+}
+.boxing-container .boxing-item .boxing-url a span{
+    position: relative;
+    padding-left: 20px;
+}
+.boxing-container .boxing-item .boxing-url a span:before{
+    content: '';
+    background: url(https://preview.nbc.com.hk/agihk/campaign-site-enhancement-apr2022/html/Income/images/arrow.png) no-repeat;
+    height: 31px;
+    display: block;
+    position: absolute;
+    top: 50%;
+    margin-top: -15.5px;
+
+    background-size: contain;
+    background-position: center;
+    width: 20px;
+    left: -8px;
+}
+
+
+.boxing-container.boxing-col-2 .boxing-item{
+    width: calc(50% - 30px);
+}
+
+.boxing-container.boxing-col-2 .boxing-item .boxing-name{
+    color: #589e61;
+    background: #d4e2d1;
+}
+
+.boxing-container.boxing-col-2 .boxing-item .boxing-url a{
+    background: #589e61;
+}
+
+
+@media (max-width: 1199px){
+    .boxing-container .boxing-item .boxing-name{
+        font-size: 22px;
+        line-height: 26px;
+        height: 120px;
+    }
+    .boxing-container .boxing-item .boxing-url a{
+        font-size: 16px;
+        padding: 20px 10px;
+    }
+}
+
+
+@media (max-width: 991px){
+    .boxing-container{
+        display: block;
+        padding-bottom: 0;
+    }
+    .boxing-container .boxing-item{
+        width: 100%;
+        margin: 0 0 20px;
+    }
+
+    .boxing-container.boxing-col-2 .boxing-item{
+        width: 100%;
+    }
+}

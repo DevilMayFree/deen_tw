@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.68 76.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #027ab3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <path id="path2887" class="cls-1" d="m49.77,61.31l4.34,4.34,10.05-10.05"/>
+  <g id="g2891">
+    <g id="g2897">
+      <path id="path2899" class="cls-1" d="m38.68,52.49v23.5h34.26v-29.36h-28.24"/>
+    </g>
+    <g id="g2901">
+      <path id="path2903" class="cls-1" d="m62.23,46.63h0c0-3.26-2.09-6.14-5.18-7.16l-18.36-6.06c-1.83-.61-3.57-1.48-5.14-2.61h0"/>
+    </g>
+    <g id="g2905">
+      <path id="path2907" class="cls-1" d="m41.12,43.39l7.46,7.46c1.47,1.47,1.19,3.93-.58,5.03h0c-1.05.65-2.38.65-3.43,0l-4.86-3.06c-.87-.54-1.87-.83-2.89-.83h0c-5.47,0-10.73-2.17-14.61-6.02l-1.89-1.88"/>
+    </g>
+    <g id="g2909">
+      <path id="path2911" class="cls-1" d="m18.08,46.27l-7.48-7.48,17.84-17.84,7.48,7.48-17.84,17.84Z"/>
+    </g>
+    <g id="g2913">
+      <path id="path2915" class="cls-1" d="m.75,26.67l10.99,10.99,15.57-15.57L5.97.75"/>
+    </g>
+    <g id="g2917">
+      <path id="path2919" class="cls-1" d="m7.33,33.02l6.84-6.84"/>
+    </g>
+    <g id="g2921">
+      <path id="path2923" class="cls-1" d="m18.49,21.85h0"/>
+    </g>
+  </g>
+</svg>

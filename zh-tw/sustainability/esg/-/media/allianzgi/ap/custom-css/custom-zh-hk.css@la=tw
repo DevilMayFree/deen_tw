@@ -1,0 +1,220 @@
+.editorial-page .editorial-header h2.c-heading {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 40px !important;
+  line-height: 48px !important;
+  color: #000000 !important;
+  font-weight: normal !important; }
+  .editorial-page .editorial-header h2.c-heading + .c-copy {
+    font-family: "Allianz Neo", "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    color: #878787 !important;
+    font-weight: normal !important; }
+
+.editorial-page .editorial-header h4.c-heading {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 24px !important;
+  line-height: 35px !important;
+  color: #000000 !important;
+  font-weight: normal !important; }
+  .editorial-page .editorial-header h4.c-heading + p.c-copy {
+    font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+    font-size: 18px !important;
+    line-height: 26px !important;
+    color: #000000 !important;
+    font-weight: normal !important; }
+
+.editorial-meta-main .page-title, .editorial-meta-main .page-title strong {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 40px !important;
+  line-height: 48px !important;
+  color: #000000 !important;
+  font-weight: normal !important; }
+
+.editorial-meta-main span.meta-date {
+  font-family: "Allianz Neo", AllianzSansWeb, Arial, Helvetica, sans-serif;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  color: #878787 !important;
+  font-weight: normal !important; }
+
+.editorial-summary .summary-title {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 24px !important;
+  line-height: 35px !important;
+  color: #000000 !important;
+  font-weight: normal !important; }
+
+.editorial-summary .summary-desc {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #000000 !important;
+  font-weight: normal !important; }
+
+.agi-rte table.body-two, .agi-general-content-rte table.body-two, .component table.body-two {
+  float: none;
+  width: 100%; }
+
+.agi-rte table.key-takeaway-table tr td .key-takeaway-title, .agi-general-content-rte table.key-takeaway-table tr td .key-takeaway-title, .component table.key-takeaway-table tr td .key-takeaway-title {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #000000 !important;
+  font-weight: bold !important; }
+
+.agi-rte table.key-takeaway-table tr td ul li, .agi-general-content-rte table.key-takeaway-table tr td ul li, .component table.key-takeaway-table tr td ul li {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #000000 !important;
+  font-weight: normal !important; }
+
+.agi-rte table:not(.key-takeaway-table) tr:nth-child(1) td[align="center"] .body-one, .agi-rte table:not(.key-takeaway-table) tr:nth-child(1) th[align="center"] .body-one, .agi-general-content-rte table:not(.key-takeaway-table) tr:nth-child(1) td[align="center"] .body-one, .agi-general-content-rte table:not(.key-takeaway-table) tr:nth-child(1) th[align="center"] .body-one, .component table:not(.key-takeaway-table) tr:nth-child(1) td[align="center"] .body-one, .component table:not(.key-takeaway-table) tr:nth-child(1) th[align="center"] .body-one {
+  color: #ffffff !important; }
+
+.agi-rte .agi-heading4, .agi-general-content-rte .agi-heading4, .component .agi-heading4 {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 24px !important;
+  line-height: 35px !important;
+  color: #000000 !important;
+  font-weight: bold !important; }
+
+.agi-rte .agi-heading6, .agi-general-content-rte .agi-heading6, .component .agi-heading6 {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 20px !important;
+  line-height: 28px !important;
+  color: #000000 !important;
+  font-weight: bold !important; }
+
+.agi-rte .body-one, .agi-general-content-rte .body-one, .component .body-one {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #000000 !important;
+  font-weight: normal; }
+
+.agi-rte .note-one, .agi-rte .disclaimer-text, .agi-general-content-rte .note-one, .agi-general-content-rte .disclaimer-text, .component .note-one, .component .disclaimer-text {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 16px !important;
+  line-height: 22px !important;
+  color: #878787 !important;
+  font-weight: normal !important;
+  font-style: normal !important; }
+
+.agi-rte .disclaimer-text, .agi-general-content-rte .disclaimer-text, .component .disclaimer-text {
+  margin: 0; }
+
+.agi-rte a[href*=".pdf"], .agi-rte a.more-btn-url, .agi-rte a.more-btn, .agi-general-content-rte a[href*=".pdf"], .agi-general-content-rte a.more-btn-url, .agi-general-content-rte a.more-btn, .component a[href*=".pdf"], .component a.more-btn-url, .component a.more-btn {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #003781 !important;
+  font-weight: normal !important; }
+
+.agi-rte a[href="/zh-hk/retail/insights/webcast"], .agi-rte a[href="/zh-hk/financial-advisor/insights/webcast"], .agi-general-content-rte a[href="/zh-hk/retail/insights/webcast"], .agi-general-content-rte a[href="/zh-hk/financial-advisor/insights/webcast"], .component a[href="/zh-hk/retail/insights/webcast"], .component a[href="/zh-hk/financial-advisor/insights/webcast"] {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #003781 !important;
+  font-weight: normal !important; }
+
+.agi-rte a[href*="hk.allianzgi.com/documents/"][href$="tc"], .agi-general-content-rte a[href*="hk.allianzgi.com/documents/"][href$="tc"], .component a[href*="hk.allianzgi.com/documents/"][href$="tc"] {
+  font-family: "Microsoft JhengHei", Arial, Helvetica, sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  color: #003781 !important;
+  font-weight: normal !important; }
+
+.agi-rte .self-driving-cars, .agi-general-content-rte .self-driving-cars, .component .self-driving-cars {
+  max-width: 760px;
+  margin: 0 auto; }
+
+.agi-rte .self-driving-cars .the-traffic-signal ul li:before, .agi-rte .self-driving-cars:hover .the-traffic-signal ul li:last-of-type:before, .agi-general-content-rte .self-driving-cars .the-traffic-signal ul li:before, .agi-general-content-rte .self-driving-cars:hover .the-traffic-signal ul li:last-of-type:before, .component .self-driving-cars .the-traffic-signal ul li:before, .component .self-driving-cars:hover .the-traffic-signal ul li:last-of-type:before {
+  background: none;
+  top: 0;
+  left: 0; }
+
+.agi-rte .self-driving-cars .the-car ul li:before, .agi-general-content-rte .self-driving-cars .the-car ul li:before, .component .self-driving-cars .the-car ul li:before {
+  background: none;
+  top: 0;
+  left: 0; }
+
+.agi-rte .self-driving-cars .the-traffic-signal ul li, .agi-rte .self-driving-cars:hover .the-traffic-signal ul li:last-of-type, .agi-general-content-rte .self-driving-cars .the-traffic-signal ul li, .agi-general-content-rte .self-driving-cars:hover .the-traffic-signal ul li:last-of-type, .component .self-driving-cars .the-traffic-signal ul li, .component .self-driving-cars:hover .the-traffic-signal ul li:last-of-type {
+  padding: 0; }
+
+.agi-rte .self-driving-cars .the-charging-station ul li:before, .agi-general-content-rte .self-driving-cars .the-charging-station ul li:before, .component .self-driving-cars .the-charging-station ul li:before {
+  background: none;
+  top: 0;
+  left: 0; }
+
+.agi-rte .self-driving-cars .the-charging-station ul li, .agi-general-content-rte .self-driving-cars .the-charging-station ul li, .component .self-driving-cars .the-charging-station ul li {
+  padding: 0; }
+
+@media (min-width: 1201px) {
+  .agi-rte .self-driving-cars .the-car, .agi-general-content-rte .self-driving-cars .the-car, .component .self-driving-cars .the-car {
+    margin-top: 80px; } }
+
+@media (max-width: 703px) {
+  .agi-rte .self-driving-cars .the-car, .agi-general-content-rte .self-driving-cars .the-car, .component .self-driving-cars .the-car {
+    margin-top: 120px; } }
+
+.agi-rte .smart-home, .agi-general-content-rte .smart-home, .component .smart-home {
+  max-width: 760px;
+  margin: 0 auto; }
+
+.agi-rte .smart-home article:first-of-type .section-heading, .agi-rte .smart-home article:last-of-type .section-heading, .agi-general-content-rte .smart-home article:first-of-type .section-heading, .agi-general-content-rte .smart-home article:last-of-type .section-heading, .component .smart-home article:first-of-type .section-heading, .component .smart-home article:last-of-type .section-heading {
+  color: #003781 !important; }
+
+.agi-rte .smart-home article:first-of-type div ul li:before, .agi-general-content-rte .smart-home article:first-of-type div ul li:before, .component .smart-home article:first-of-type div ul li:before {
+  top: 0;
+  left: 0; }
+
+.agi-rte .smart-home .smart-home-data ul li:first-of-type:before, .agi-general-content-rte .smart-home .smart-home-data ul li:first-of-type:before, .component .smart-home .smart-home-data ul li:first-of-type:before {
+  background: none; }
+
+.agi-rte .smart-home .smart-home-data ul li:before, .agi-general-content-rte .smart-home .smart-home-data ul li:before, .component .smart-home .smart-home-data ul li:before {
+  background-color: transparent; }
+
+.agi-rte .healthcare, .agi-general-content-rte .healthcare, .component .healthcare {
+  max-width: 760px;
+  margin: 0 auto; }
+
+.agi-rte .healthcare .healthcare-ai ul li:before, .agi-general-content-rte .healthcare .healthcare-ai ul li:before, .component .healthcare .healthcare-ai ul li:before {
+  background-color: transparent;
+  top: 0;
+  left: 0; }
+
+.agi-rte .healthcare .healthcare-ai .healthcare-preventative ul li:before, .agi-general-content-rte .healthcare .healthcare-ai .healthcare-preventative ul li:before, .component .healthcare .healthcare-ai .healthcare-preventative ul li:before {
+  background-color: #b2dde1; }
+
+.agi-rte .healthcare .healthcare-ai ul li, .agi-general-content-rte .healthcare .healthcare-ai ul li, .component .healthcare .healthcare-ai ul li {
+  padding-left: 0; }
+
+.agi-rte .big-data, .agi-general-content-rte .big-data, .component .big-data {
+  max-width: 760px;
+  margin: 0 auto; }
+  .agi-rte .big-data .section-heading, .agi-general-content-rte .big-data .section-heading, .component .big-data .section-heading {
+    color: #009ca6 !important; }
+
+.agi-rte .big-data .big-data-doubles div:last-of-type ul li:before, .agi-general-content-rte .big-data .big-data-doubles div:last-of-type ul li:before, .component .big-data .big-data-doubles div:last-of-type ul li:before {
+  top: 0;
+  left: 0; }
+
+.agi-rte .big-data .big-data-doubles div:last-of-type ul li, .agi-general-content-rte .big-data .big-data-doubles div:last-of-type ul li, .component .big-data .big-data-doubles div:last-of-type ul li {
+  color: #fff;
+  padding-left: 0; }
+
+.agi-rte .big-data .big-data-doubles div:first-of-type ul li:before, .agi-general-content-rte .big-data .big-data-doubles div:first-of-type ul li:before, .component .big-data .big-data-doubles div:first-of-type ul li:before {
+  background: none; }
+
+.agi-general-content-rte a[href*='.pdf'][href*='shared/insights/2019-outlook/'] {
+  color: #fff !important; }
+
+@media screen and (max-width: 991px) {
+  .agi-rte img {
+    height: auto !important; } }
+
+@media (min-width: 704px) {
+  .c-hero-banner .c-copy .body-one, .c-hero-banner .c-copy .agi-heading4, .c-hero-banner .c-copy .agi-heading6 {
+    color: #ffffff !important; } }
