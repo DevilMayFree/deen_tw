@@ -1867,7 +1867,7 @@
 <table width="65%" border="0" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td align="center" style="background: #0070c0; padding: 13px; border: 1px solid #cccccc; border-image: none; font-size: 1.1em; font-weight: bold;"><a href="https://ifund.allianzgi.com.tw" style="color: #ffffff;" target="target=">馬上使用優惠券</a></td>
+            <td align="center" style="background: #0070c0; padding: 13px; border: 1px solid #cccccc; border-image: none; font-size: 1.1em; font-weight: bold;"><a  style="color: #ffffff;" target="target=">馬上使用優惠券</a></td>
         </tr>
     </tbody>
 </table>
