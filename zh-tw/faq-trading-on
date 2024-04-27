@@ -7,7 +7,7 @@
 <html class="no-js" lang="zh-Hant">
 <!--<![endif]-->
     <head>
-    <title>常見問題-境內外基金開戶交易相關問題、投資解說與指引-德恩投資</title>
+    <title>常見問題-境內外股票開戶交易相關問題、投資解說與指引-德恩投資</title>
     <!--Page Metadata-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta charset="utf-8" />
@@ -15,12 +15,12 @@
     <meta name="msapplication-config" content="none" />
     <meta http-equiv="content-language" content="zh-TW" />
     <meta name="language" content="zh-TW" />
-    <meta name="description" content="解答申購基金流程、定期定額扣款交易、交易委託下單後續通知、開戶程序、定期定額申購金額，手續費如何計算等電子交易平台常見交易問題-德恩投資
+    <meta name="description" content="解答申購股票流程、定期定額扣款交易、交易委託下單後續通知、開戶程序、定期定額申購金額，手續費如何計算等電子交易平台常見交易問題-德恩投資
 " />
-    <meta name="keywords" content="基金, 定期定額, 投資, 理財" />
+    <meta name="keywords" content="股票, 定期定額, 投資, 理財" />
     <meta name="robots" content="follow, index" />
     <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"WebPage","description":"解答申購基金流程、定期定額扣款交易、交易委託下單後續通知、開戶程序、定期定額申購金額，手續費如何計算等電子交易平台常見交易問題-德恩投資\r\n","url":"https://tw.allianzgi.com/zh-tw/faq-trading-on","inLanguage":"zh-TW","isPartOf":{"@type":"WebSite","name":"Taiwan","url":"https://tw.allianzgi.com","inLanguage":"zh-TW","publisher":{"@type":"Organization","name":"Allianz Global Investors","image":{"@type":"ImageObject","url":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4","inLanguage":"zh-TW","contentUrl":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4"},"url":"https://www.allianzgi.com","logo":{"@type":"ImageObject","url":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4","inLanguage":"zh-TW","contentUrl":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4"}}}}
+        {"@context":"https://schema.org","@type":"WebPage","description":"解答申購股票流程、定期定額扣款交易、交易委託下單後續通知、開戶程序、定期定額申購金額，手續費如何計算等電子交易平台常見交易問題-德恩投資\r\n","url":"https://tw.allianzgi.com/zh-tw/faq-trading-on","inLanguage":"zh-TW","isPartOf":{"@type":"WebSite","name":"Taiwan","url":"https://tw.allianzgi.com","inLanguage":"zh-TW","publisher":{"@type":"Organization","name":"Allianz Global Investors","image":{"@type":"ImageObject","url":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4","inLanguage":"zh-TW","contentUrl":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4"},"url":"https://www.allianzgi.com","logo":{"@type":"ImageObject","url":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4","inLanguage":"zh-TW","contentUrl":"https://tw.allianzgi.com/-/media/allianzgi/shared/logo/logo-allianz.svg?rev=a54c8fabfa8545f685c758497f7642f2\u0026sc_lang=zh-tw\u0026hash=1AF655F6E7FB34939409095AF92ABAE4"}}}}
     </script>
     <link rel="canonical" href="https://tw.allianzgi.com/zh-tw/faq-trading-on" />
             <!-- Start: OneTrust Cookies Consent Notice -->
@@ -157,10 +157,10 @@
 </a>                            <nav class="c-main-navbar js-main-navbar" role="menubar">
                                     <ul role="menu" class="c-main-navbar__list">
                                                     <li role="menuitem" tabindex="0" class="c-main-navbar__item">
-                                                        <a id="nav1" aria-expanded="false" aria-haspopup="true" aria-label="基金資訊與淨值"
+                                                        <a id="nav1" aria-expanded="false" aria-haspopup="true" aria-label="股票資訊與淨值"
                                                            class="c-main-navbar__link js-main-navigation-link "
-                                                           data-track="topNavigation" data-track-info='{"navigationElement":"基金資訊與淨值"}'>
-                                                            <span class="c-main-navbar__title"> 基金資訊與淨值</span>
+                                                           data-track="topNavigation" data-track-info='{"navigationElement":"股票資訊與淨值"}'>
+                                                            <span class="c-main-navbar__title"> 股票資訊與淨值</span>
                                                         </a>
                                                     </li>
                                                     <li role="menuitem" tabindex="0" class="c-main-navbar__item">
@@ -432,29 +432,29 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="基金資訊與淨值" aria-expanded="false" aria-label="基金資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"基金資訊與淨值"}'>
-                            基金資訊與淨值
+                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="股票資訊與淨值" aria-expanded="false" aria-label="股票資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"股票資訊與淨值"}'>
+                            股票資訊與淨值
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
-                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="基金績效" aria-expanded="false" aria-label="基金績效" data-track="topNavigation" data-track-info='{"navigationElement":"基金績效"}'>
-                            基金績效
+                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="股票績效" aria-expanded="false" aria-label="股票績效" data-track="topNavigation" data-track-info='{"navigationElement":"股票績效"}'>
+                            股票績效
                         </a>
                     </li>
 
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="基金休市/配息行事曆" aria-expanded="false" aria-label="基金休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"基金休市/配息行事曆"}'>
-                            基金休市/配息行事曆
+                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="股票休市/配息行事曆" aria-expanded="false" aria-label="股票休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"股票休市/配息行事曆"}'>
+                            股票休市/配息行事曆
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -476,22 +476,22 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
                                                                 </ul>
@@ -544,8 +544,8 @@
                     </div>
                 </div>
                 <div class="nav-teaser-container l-grid__column-large-6 u-align-items-stretch">
-                    <div class="c-agi-teaser u-margin-bottom-m" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;impression&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
-                            <a href="/zh-tw/themes/investable-themes/rates" title="" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}' target="_blank">
+                    <div class="c-agi-teaser u-margin-bottom-m" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;impression&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
+                            <a href="/zh-tw/themes/investable-themes/rates" title="" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}' target="_blank">
                                 <div class="c-agi-teaser__image">
                                     <figure class="c-image u-hidden-medium-down c-image--1dot8by1">
                                         <img class="c-image__img" src="/-/media/allianzgi/ap/taiwan/country-landing-page/20230518-ig-new-banner.jpg?w=564&amp;rev=72044f5fec7948b8836867c2b1c89196&amp;hash=A94B22E9CCC24BDE0C8503E7E1279D74" loading="lazy" alt="">
@@ -560,14 +560,14 @@
                                                 2024首選
                                             </p>
                                         <h6 class="c-heading c-agi-tile__headline c-heading--link-black">
-                                                <a href="/zh-tw/themes/investable-themes/rates" title="德恩收益大師系列基金" target="_blank" class="c-heading__link" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
-                                                    德恩收益大師系列基金
+                                                <a href="/zh-tw/themes/investable-themes/rates" title="德恩收益大師系列股票" target="_blank" class="c-heading__link" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
+                                                    德恩收益大師系列股票
                                                 </a>
                                         </h6>
                                         <p class="c-copy c-agi-tile__text">
                                             有收益  更要成長
                                         </p>
-                                            <a class="c-link c-link--block c-link--icon" href="/zh-tw/themes/investable-themes/rates" aria-label="馬上了解" target="_blank" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
+                                            <a class="c-link c-link--block c-link--icon" href="/zh-tw/themes/investable-themes/rates" aria-label="馬上了解" target="_blank" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
                                                 <span aria-hidden="true" class="c-link__icon c-icon c-icon--arrow-right"></span>
                                                 <span class="c-link__text">馬上了解</span>
                                             </a>
@@ -593,7 +593,7 @@
 
                                                     <a id="nav1" href="#" target="" class="c-accordion__button js-main-navigation-link-mobile " data-track="topNavigation">
                                                         <span class="c-accordion__title">
-                                                            基金資訊與淨值
+                                                            股票資訊與淨值
 
                                                         </span>
                                                         <div class="c-accordion__indicator">
@@ -609,29 +609,29 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="基金資訊與淨值" aria-expanded="false" aria-label="基金資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"基金資訊與淨值"}'>
-                            基金資訊與淨值
+                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="股票資訊與淨值" aria-expanded="false" aria-label="股票資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"股票資訊與淨值"}'>
+                            股票資訊與淨值
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
-                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="基金績效" aria-expanded="false" aria-label="基金績效" data-track="topNavigation" data-track-info='{"navigationElement":"基金績效"}'>
-                            基金績效
+                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="股票績效" aria-expanded="false" aria-label="股票績效" data-track="topNavigation" data-track-info='{"navigationElement":"股票績效"}'>
+                            股票績效
                         </a>
                     </li>
 
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="基金休市/配息行事曆" aria-expanded="false" aria-label="基金休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"基金休市/配息行事曆"}'>
-                            基金休市/配息行事曆
+                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="股票休市/配息行事曆" aria-expanded="false" aria-label="股票休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"股票休市/配息行事曆"}'>
+                            股票休市/配息行事曆
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -652,22 +652,22 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
                                                                             </ul>
@@ -699,15 +699,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
 
@@ -820,15 +820,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
 
@@ -928,8 +928,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
@@ -1008,8 +1008,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
@@ -1096,8 +1096,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -1124,15 +1124,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信基金交易流程" aria-expanded="false" aria-label="投信基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信基金交易流程"}'>
-                            投信基金交易流程
+                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信股票交易流程" aria-expanded="false" aria-label="投信股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信股票交易流程"}'>
+                            投信股票交易流程
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外基金交易流程" aria-expanded="false" aria-label="境外基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外基金交易流程"}'>
-                            境外基金交易流程
+                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外股票交易流程" aria-expanded="false" aria-label="境外股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外股票交易流程"}'>
+                            境外股票交易流程
                         </a>
                     </li>
                                                                 </ul>
@@ -1217,8 +1217,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -1245,15 +1245,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信基金交易流程" aria-expanded="false" aria-label="投信基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信基金交易流程"}'>
-                            投信基金交易流程
+                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信股票交易流程" aria-expanded="false" aria-label="投信股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信股票交易流程"}'>
+                            投信股票交易流程
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外基金交易流程" aria-expanded="false" aria-label="境外基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外基金交易流程"}'>
-                            境外基金交易流程
+                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外股票交易流程" aria-expanded="false" aria-label="境外股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外股票交易流程"}'>
+                            境外股票交易流程
                         </a>
                     </li>
                                                                             </ul>
@@ -1777,7 +1777,7 @@
                             <h1 class="c-heading u-margin-bottom-s u-margin-top-xl">
                                 常見問題 
                             </h1>
-                                                    <div class="c-copy u-margin-bottom-xl agi-rte"><p style="text-align: center;"><span class="body-one"><span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-online-account-open" style="text-align: center;"><span style="text-decoration: underline;">線上開戶</span></a><span style="text-align: center; color: #4d4d4d;">&gt;&nbsp;<span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-trading-on" style="text-align: center;"><span style="text-decoration: underline;">境內基金交易</span></a><span style="text-align: center; color: #4d4d4d;">&gt; &lt;</span><a href="/zh-tw/faq-trading-off" style="text-align: center;"><span style="text-decoration: underline;">境外基金交易</span></a><span style="text-align: center; color: #4d4d4d;">&gt;</span></span></span></p>
+                                                    <div class="c-copy u-margin-bottom-xl agi-rte"><p style="text-align: center;"><span class="body-one"><span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-online-account-open" style="text-align: center;"><span style="text-decoration: underline;">線上開戶</span></a><span style="text-align: center; color: #4d4d4d;">&gt;&nbsp;<span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-trading-on" style="text-align: center;"><span style="text-decoration: underline;">境內股票交易</span></a><span style="text-align: center; color: #4d4d4d;">&gt; &lt;</span><a href="/zh-tw/faq-trading-off" style="text-align: center;"><span style="text-decoration: underline;">境外股票交易</span></a><span style="text-align: center; color: #4d4d4d;">&gt;</span></span></span></p>
 <p style="text-align: center;"><span class="body-one" style="text-align: center; color: #4d4d4d;">&lt;<a href="/zh-tw/faq-tarsp" style="text-align: center;"><span style="text-decoration: underline;">鎖利定期定額</span></a>&gt; &lt;<a href="/zh-tw/faq-cycle" style="text-align: center;"><span style="text-decoration: underline;">鎖利母子循環</span></a>&gt;</span></p>
 <p style="text-align: center;"><span class="body-one" style="text-align: center; color: #4d4d4d;"><span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-ifund-platform" style="text-align: center;"><span style="text-decoration: underline;">電子交易平台</span></a><span style="text-align: center; color: #4d4d4d;">&gt;&nbsp;&lt;<a href="/zh-tw/faq-ifund-password" style="text-align: center;"><span style="text-decoration: underline;">電子交易平台密碼變更</span></a>&gt;</span></span></p>
 <p style="text-align: center;"><span class="body-one" style="text-align: center; color: #4d4d4d;"><span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-data-change" style="text-align: center;"><span style="text-decoration: underline;">資料變更</span></a><span style="text-align: center; color: #4d4d4d;">&gt;&nbsp;<span style="text-align: center; color: #4d4d4d;">&lt;</span><a href="/zh-tw/faq-web-information" style="text-align: center;"><span style="text-decoration: underline;">網站使用說明</span></a><span style="text-align: center; color: #4d4d4d;">&gt;</span></span></span></p></div>
@@ -1834,7 +1834,7 @@
 </div>
 <div class="component agi-general-content-rte " data-component="general-content" >
     <div class="l-container u-margin-top-xl u-margin-bottom-2m agi-rte">
-        <span class="agi-heading1">境內基金交易</span>
+        <span class="agi-heading1">境內股票交易</span>
     </div>
 </div>
 
@@ -1880,16 +1880,16 @@
                 <div class="l-grid__column-12">
                     <ul id="accordion_33F32C8A-A970-482B-988B-6EB6BE39069D" class="faq-accordion c-agi-accordion js-agi-accordion" data-autocollapse="false">
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-0" class="c-agi-accordion__button">Q1.如何單筆申購本公司境內基金？</button>
+                                <button aria-controls="tab-content-0" class="c-agi-accordion__button">Q1.如何單筆申購本公司境內股票？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-0">
                                     <p><span class="body-one"><strong>網路交易：</strong></span></p>
-<p><span class="body-one">已開立網路交易之客戶，請登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">德恩投資電子交易平台</a>，點選【基金交易】-&gt;【一般交易 - 單筆申購】進行交易。</span></p>
+<p><span class="body-one">已開立網路交易之客戶，請登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">德恩投資電子交易平台</a>，點選【股票交易】-&gt;【一般交易 - 單筆申購】進行交易。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
 <p><span class="body-one"><strong>書面辦理：</strong></span></p>
-<p><span class="body-one">1. 請下載列印<a rel="noopener noreferrer" href="https://tw.allianzgi.com/api/sitecore/documentlibrary/Download?item=C636C6C9-3737-45E9-AA7A-7C350AAB9E8C&amp;field=Document" target="_blank">「境內基金」交易申請書 - 單筆申購/買回/轉申購</a>，填妥並加蓋受益人原留印鑑。</span></p>
-<p><span class="body-one">2. 您可親洽銀行完成匯款或透過ATM轉帳，匯款帳號請參見<a rel="noopener noreferrer" href="https://tw.allianzgi.com/-/media/allianzgi/ap/taiwan/pdf/onshore-forms/process-open-buy-onshore" target="_blank">「境內基金」單筆申購程序【附基金匯款帳號】</a>。</span></p>
+<p><span class="body-one">1. 請下載列印<a rel="noopener noreferrer" href="https://tw.allianzgi.com/api/sitecore/documentlibrary/Download?item=C636C6C9-3737-45E9-AA7A-7C350AAB9E8C&amp;field=Document" target="_blank">「境內股票」交易申請書 - 單筆申購/買回/轉申購</a>，填妥並加蓋受益人原留印鑑。</span></p>
+<p><span class="body-one">2. 您可親洽銀行完成匯款或透過ATM轉帳，匯款帳號請參見<a rel="noopener noreferrer" href="https://tw.allianzgi.com/-/media/allianzgi/ap/taiwan/pdf/onshore-forms/process-open-buy-onshore" target="_blank">「境內股票」單筆申購程序【附股票匯款帳號】</a>。</span></p>
 <p><span class="body-one">3. 檢附申購價金匯款或轉帳單據影本，以及匯款或轉帳帳戶之存摺封面影本。</span></p>
-<p><span class="body-one">以上文件請掛號郵寄至『新北市新店區中正路531-1號7樓 德恩投資 基金事務單位』辦理。</span></p>
+<p><span class="body-one">以上文件請掛號郵寄至『新北市新店區中正路531-1號7樓 德恩投資 股票事務單位』辦理。</span></p>
 <p><span class="body-one">備註：若已簽訂傳真交易約定者，請於傳真後自行來電確認。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
 <p><span class="body-one"><strong>親洽德恩投資辦理：</strong></span></p>
@@ -1899,16 +1899,16 @@
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-1" class="c-agi-accordion__button">Q2.單筆申購境內基金的交易截止時間為何？</button>
+                                <button aria-controls="tab-content-1" class="c-agi-accordion__button">Q2.單筆申購境內股票的交易截止時間為何？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-1">
-                                    <p><span class="body-one">貨幣市場基金：每基金營業日上午11：00（含）以前。</span></p>
-<p><span class="body-one">其餘類型基金：每基金營業日下午4：00（含）以前。</span></p>
+                                    <p><span class="body-one">貨幣市場股票：每股票營業日上午11：00（含）以前。</span></p>
+<p><span class="body-one">其餘類型股票：每股票營業日下午4：00（含）以前。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
-<p><span class="body-one">請於基金營業日交易截止時間前，完成下單及匯款程序（網路交易於委託當日自指定帳戶中扣款）。</span></p>
+<p><span class="body-one">請於股票營業日交易截止時間前，完成下單及匯款程序（網路交易於委託當日自指定帳戶中扣款）。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-2" class="c-agi-accordion__button">Q3.單筆申購境內基金最低及最高金額為何？</button>
+                                <button aria-controls="tab-content-2" class="c-agi-accordion__button">Q3.單筆申購境內股票最低及最高金額為何？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-2">
                                     <html>
     <head>
@@ -1921,7 +1921,7 @@
             <tbody>
                 <tr>
                     <td rowspan="4" style="background-color: #003781; width: 209px;">
-                    <p style="text-align: center;"><strong style="color: rgba(255,255,255,1);">基金類型</strong></p>
+                    <p style="text-align: center;"><strong style="color: rgba(255,255,255,1);">股票類型</strong></p>
                     </td>
                     <td colspan="10" style="background-color: #003781;">
                     <p style="text-align: center;"><strong style="color: rgba(251,251,251,1);">最低申購金額</strong> </p>
@@ -1986,8 +1986,8 @@
                 </tr>
                 <tr>
                     <td style="width: 209px;">
-                    <p>投信系列基金<br />
-                    (不含台幣計價之配息型基金、貨幣市場基金)</p>
+                    <p>投信系列股票<br />
+                    (不含台幣計價之配息型股票、貨幣市場股票)</p>
                     </td>
                     <td style="width: 90px;">
                     <p style="text-align: center;">10,000 </p>
@@ -2020,7 +2020,7 @@
                 </tr>
                 <tr>
                     <td style="width: 209px;">
-                    <p>投信系列 配息型基金</p>
+                    <p>投信系列 配息型股票</p>
                     </td>
                     <td style="width: 90px;">
                     <p style="text-align: center;">200,000 </p>
@@ -2044,7 +2044,7 @@
                 </tr>
                 <tr>
                     <td style="width: 209px;">
-                    <p>德恩台灣貨幣市場基金</p>
+                    <p>德恩台灣貨幣市場股票</p>
                     </td>
                     <td style="width: 90px;">
                     <p style="text-align: center;">100,000 </p>
@@ -2071,7 +2071,7 @@
         <p><span class="body-one">單筆最高申購金額：</span></p>
         <p><span class="body-one">除法令變更外，受益人每日電子交易之申購或買回金額均各以新臺幣3,000萬元或等值外幣為上限。
         <br />
-        （目前透過全國性繳費平台扣款，不論自然人或法人，每筆最高之轉帳扣款金額上限為新臺幣500萬元／每日最高轉帳扣款限額為新臺幣3,000萬元，前述規定有變更時，同意依變更後之規定辦理。另受益人同意實際之單筆轉帳及每日最高轉帳扣款限額亦應依基金公司之最新規定辦理）
+        （目前透過全國性繳費平台扣款，不論自然人或法人，每筆最高之轉帳扣款金額上限為新臺幣500萬元／每日最高轉帳扣款限額為新臺幣3,000萬元，前述規定有變更時，同意依變更後之規定辦理。另受益人同意實際之單筆轉帳及每日最高轉帳扣款限額亦應依股票公司之最新規定辦理）
         </span></p>
         <p><span class="body-one">備註：各約定帳戶扣款額度上限金額係依簽署之全國性繳費(稅)業務授權轉帳繳款申請書而定；另，各銀行與客戶簽署之每天或每月的代扣款上限額度不一，實際扣款上限額度需以各銀行規定為準。</span></p>
     </body>
@@ -2079,15 +2079,15 @@
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-3" class="c-agi-accordion__button">Q4.申購投信系列基金，是以哪一天的淨值申購？</button>
+                                <button aria-controls="tab-content-3" class="c-agi-accordion__button">Q4.申購投信系列股票，是以哪一天的淨值申購？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-3">
-                                    <p><span class="body-one">於基金營業日當日交易時間內完成所有交易程序，即以當日淨值申購。</span></p>
+                                    <p><span class="body-one">於股票營業日當日交易時間內完成所有交易程序，即以當日淨值申購。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-4" class="c-agi-accordion__button">Q5.單筆申購境內基金手續費如何計算？</button>
+                                <button aria-controls="tab-content-4" class="c-agi-accordion__button">Q5.單筆申購境內股票手續費如何計算？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-4">
-                                    <p><span class="body-one">申購手續費依申購管道及基金類型而有所不同，請參考<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">「境內基金手續費率一覽表」</a>。
+                                    <p><span class="body-one">申購手續費依申購管道及股票類型而有所不同，請參考<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">「境內股票手續費率一覽表」</a>。
 </span></p>
 <p><span class="body-one">備註：網路交易手續費以最終優惠活動計算為準。</span></p>
                                 </div>
@@ -2114,15 +2114,15 @@
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-8" class="c-agi-accordion__button">Q9.若扣款日遇假日或颱風天放假，淨值以哪一天為準？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-8">
-                                    <p><span class="body-one">若扣款日適逢例假日、基金暫停計價日或遇地震、颱風&hellip;等臨時放假，交易日將自動順延至次一基金營業日扣款，且以該日淨值計算之。</span></p>
+                                    <p><span class="body-one">若扣款日適逢例假日、股票暫停計價日或遇地震、颱風&hellip;等臨時放假，交易日將自動順延至次一股票營業日扣款，且以該日淨值計算之。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-9" class="c-agi-accordion__button">Q10.境內基金定期定額最低申購金額為何？是否有扣款金額上限的限制？</button>
+                                <button aria-controls="tab-content-9" class="c-agi-accordion__button">Q10.境內股票定期定額最低申購金額為何？是否有扣款金額上限的限制？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-9">
-                                    <p><span class="body-one"><strong>境內基金定期定額每筆最低申購金額：</strong></span></p>
+                                    <p><span class="body-one"><strong>境內股票定期定額每筆最低申購金額：</strong></span></p>
 <p><span class="body-one">新台幣：3,000元（以1,000元為累加倍數）</span></p>
-<p><span class="body-one">備註：「外幣計價的境內基金」及「台灣貨幣市場基金」恕不接受定期定額申購。</span></p>
+<p><span class="body-one">備註：「外幣計價的境內股票」及「台灣貨幣市場股票」恕不接受定期定額申購。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
 <p><span class="body-one"><strong>定期定額每筆最高申購金額：</strong></span></p>
 <p><span class="body-one">新臺幣：5,000,000元</span></p>
@@ -2134,12 +2134,12 @@
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-10" class="c-agi-accordion__button">Q11.定期定額申購手續費如何計算？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-10">
-                                    <p><span class="body-one">申購手續費依申購管道及基金類型而有所不同，請參考「<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">境內基金手續費率一覽表</a>」。</span></p>
+                                    <p><span class="body-one">申購手續費依申購管道及股票類型而有所不同，請參考「<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">境內股票手續費率一覽表</a>」。</span></p>
 <p><span class="body-one">備註：網路交易手續費以最終優惠活動計算為準。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-11" class="c-agi-accordion__button">Q12.境內基金【定期定額－日日扣】異動何時生效？</button>
+                                <button aria-controls="tab-content-11" class="c-agi-accordion__button">Q12.境內股票【定期定額－日日扣】異動何時生效？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-11">
                                     <p><span class="body-one">需透過網路於每營業日交易截止時間16:00前申請，則次一營業日生效。</span></p>
                                 </div>
@@ -2165,12 +2165,12 @@
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-15" class="c-agi-accordion__button">Q16.長期定期定額扣款有優惠活動嗎？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-15">
-                                    <p><span class="body-one">凡定期定額申購德恩投資系列基金（除貨幣市場基金外），可享有下列優惠：</span></p>
+                                    <p><span class="body-one">凡定期定額申購德恩投資系列股票（除貨幣市場股票外），可享有下列優惠：</span></p>
 <table width="410" style="width: 998px; height: 284px;" border="1" cellspacing="0" cellpadding="5">
     <tbody>
         <tr>
             <td style="height: 35px; background-color: #003781;" rowspan="1" colspan="3">
-            <p style="text-align: center;"><span class="body-one" style="color: #ffffff;">德恩投資基金長期扣款優惠費率</span></p>
+            <p style="text-align: center;"><span class="body-one" style="color: #ffffff;">德恩投資股票長期扣款優惠費率</span></p>
             </td>
         </tr>
         <tr>
@@ -2209,9 +2209,9 @@
 </table>
 <p><span class="body-one">備註：</span></p>
 <ul>
-    <li><span class="body-one">若同一檔基金有二筆以上定期定額契約，其扣款次數合併計算。</span></li>
-    <li><span class="body-one">登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">電子交易平台</a>後，可利用【個人帳戶】-&gt;【定期定額扣款次數】功能，了解所投資的各檔基金累計次數。</span></li>
-    <li><span class="body-one">不同基金之牌告手續費率有所不同，請參考「<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">境內基金手續費率一覽表</a>」。</span></li>
+    <li><span class="body-one">若同一檔股票有二筆以上定期定額契約，其扣款次數合併計算。</span></li>
+    <li><span class="body-one">登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">電子交易平台</a>後，可利用【個人帳戶】-&gt;【定期定額扣款次數】功能，了解所投資的各檔股票累計次數。</span></li>
+    <li><span class="body-one">不同股票之牌告手續費率有所不同，請參考「<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">境內股票手續費率一覽表</a>」。</span></li>
     <li><span class="body-one">定期定額（含鎖利）扣款優惠次數計算，係以當次扣款作業完成後，始納入計次優惠。相關計次須一定作業時間，非以扣款日成功扣款即計算之；若遇連續假期、休市、營業日營業時間調整或其它特殊狀況，長期扣款優惠相關次數累計以本公司系統作業資料為準，本公司保留提供優惠之權利。</span></li>
 </ul>
                                 </div>
@@ -2219,15 +2219,15 @@
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-16" class="c-agi-accordion__button">Q17.要如何知道我的定期定額扣款還有幾次可以符合長期扣款優惠？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-16">
-                                    <p><span class="body-one">若您是本公司電子交易客戶，可登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">德恩投資電子交易平台</a>，點選【個人帳戶】-&gt;【定期定額扣款次數】功能 ，查詢已投資的各檔基金其定期定額扣款累計次數。此外，亦分別有成功與失敗扣款累計次數的資訊供您參考。</span></p>
-<p><span class="body-one">長期扣款優惠係以單一基金累積成功扣款次數滿36次作為符合優惠資格判斷，待下一次（第37次）扣款以後即可享有0手續費！</span></p>
+                                    <p><span class="body-one">若您是本公司電子交易客戶，可登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">德恩投資電子交易平台</a>，點選【個人帳戶】-&gt;【定期定額扣款次數】功能 ，查詢已投資的各檔股票其定期定額扣款累計次數。此外，亦分別有成功與失敗扣款累計次數的資訊供您參考。</span></p>
+<p><span class="body-one">長期扣款優惠係以單一股票累積成功扣款次數滿36次作為符合優惠資格判斷，待下一次（第37次）扣款以後即可享有0手續費！</span></p>
 <p><span class="body-one">備註：</span></p>
-<p><span class="body-one">1. 長期扣款優惠基金為德恩投資系列基金（貨幣市場基金除外），詳見下方</span></p>
+<p><span class="body-one">1. 長期扣款優惠股票為德恩投資系列股票（貨幣市場股票除外），詳見下方</span></p>
 <table width="410" style="width: 998px; height: 284px;" border="1" cellspacing="0" cellpadding="5">
     <tbody>
         <tr>
             <td style="height: 35px; background-color: #003781;" rowspan="1" colspan="3">
-            <p style="text-align: center;"><span class="body-one" style="color: #ffffff;">德恩投資基金長期扣款優惠費率</span></p>
+            <p style="text-align: center;"><span class="body-one" style="color: #ffffff;">德恩投資股票長期扣款優惠費率</span></p>
             </td>
         </tr>
         <tr>
@@ -2275,11 +2275,11 @@
 <p><span class="body-one"><strong>網路辦理【傳統型定期定額】異動：</strong><br />
 請登入德恩投資電子交易平台，點選【定期定額 - 查詢/異動】，進行契約異動。</span></p>
 <p><span style="color: #4d4d4d; font-size: 18px;"><strong>書面辦理及傳真申請（已申請傳真交易功能）【傳統型定期定額】異動：</strong></span></p>
-<p><span class="body-one">下載列印「境內基金定期定額變更申請書」，填妥並加蓋受益人相關印鑑。<br />
-以上文件請掛號郵寄至『新北市新店區中正路531-1號7樓 德恩投資 基金事務單位』辦理。</span></p>
+<p><span class="body-one">下載列印「境內股票定期定額變更申請書」，填妥並加蓋受益人相關印鑑。<br />
+以上文件請掛號郵寄至『新北市新店區中正路531-1號7樓 德恩投資 股票事務單位』辦理。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
 <p><span class="body-one">備註：</span></p>
-<p><span class="body-one">1. 境內基金請於扣款日前5個營業日下午4:00前申請變更，當期即可異動生效，逾期則於次期生效。</span></p>
+<p><span class="body-one">1. 境內股票請於扣款日前5個營業日下午4:00前申請變更，當期即可異動生效，逾期則於次期生效。</span></p>
 <p><span class="body-one">2. 變更扣款帳戶，需加附存摺封面影本，限書面郵寄辦理。</span></p>
 <p><span class="body-one">3. 親洽德恩投資辦理：請於營業日9：00~17：30 撥打客服專線 02-8770-9828洽詢相關辦理事宜（臨櫃服務需事先預約）。</span></p>
                                 </div>
@@ -2295,7 +2295,7 @@
                                 <button aria-controls="tab-content-19" class="c-agi-accordion__button">Q20.如何進行「一鍵轉換」，有什麼限制嗎？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-19">
                                     <p><span class="body-one">「一鍵轉換」僅限境內傳統型定期定額正常扣款中的契約。</span></p>
-<p><span class="body-one">您可點選【基金交易】-&gt;【定期定額 - 查詢/異動】，選擇您要轉換的契約，按下【變更】，進入後可看到【立即一鍵轉換】，點選後即進入一鍵轉換。</span></p>
+<p><span class="body-one">您可點選【股票交易】-&gt;【定期定額 - 查詢/異動】，選擇您要轉換的契約，按下【變更】，進入後可看到【立即一鍵轉換】，點選後即進入一鍵轉換。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
@@ -2312,16 +2312,16 @@
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-22" class="c-agi-accordion__button">Q23.為何無法受理外籍人士申購本公司所發行之境內收益分配型基金？</button>
+                                <button aria-controls="tab-content-22" class="c-agi-accordion__button">Q23.為何無法受理外籍人士申購本公司所發行之境內收益分配型股票？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-22">
-                                    <p><span class="body-one">稅法規定，外籍投資人士（以下簡稱外僑）之綜合所得稅申報，依其在華居留期間長短不同，分為「境內居住」或「境外居住」，其納稅方式亦有不同。唯外僑在華居留天數難以確認，故礙難受理外僑申購本公司發行之境內收益分配型基金。</span></p>
+                                    <p><span class="body-one">稅法規定，外籍投資人士（以下簡稱外僑）之綜合所得稅申報，依其在華居留期間長短不同，分為「境內居住」或「境外居住」，其納稅方式亦有不同。唯外僑在華居留天數難以確認，故礙難受理外僑申購本公司發行之境內收益分配型股票。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-23" class="c-agi-accordion__button">Q24.如何辦理境內基金一般庫存的買回或轉申購？</button>
+                                <button aria-controls="tab-content-23" class="c-agi-accordion__button">Q24.如何辦理境內股票一般庫存的買回或轉申購？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-23">
                                     <p><span class="body-one"><strong>網路交易：</strong></span></p>
-<p><span class="body-one">已開立網路交易之客戶，請登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">德恩投資電子交易平台</a>，點選【基金交易】-&gt;【一般交易 - 買回/轉申購】進行交易。</span></p>
+<p><span class="body-one">已開立網路交易之客戶，請登入<a rel="noopener noreferrer" href="https://ifund.allianzgi.com.tw/" target="_blank">德恩投資電子交易平台</a>，點選【股票交易】-&gt;【一般交易 - 買回/轉申購】進行交易。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
 <p><span class="body-one">除網路交易外，尚可透過傳真、書面郵寄或親洽辦理，請見以下說明：</span></p>
 <div>
@@ -2342,16 +2342,16 @@
         <tr>
             <td style="padding: 10px; width: 210px; height: 60%; background-color: #ffffff;" rowspan="1" colspan="1">
             <ul class="custom-ul" style="margin: 0px; padding: 0px 0px 0px 25px;">
-                <li style="list-style-type: decimal;"><span class="body-one">下載列印「<a></a><a rel="noopener noreferrer" href="https://tw.allianzgi.com/api/sitecore/documentlibrary/Download?item=C636C6C9-3737-45E9-AA7A-7C350AAB9E8C&amp;field=Document" target="_blank">基金交易申請書</a>」，填妥並加蓋受益人原留印鑑。</span></li>
+                <li style="list-style-type: decimal;"><span class="body-one">下載列印「<a></a><a rel="noopener noreferrer" href="https://tw.allianzgi.com/api/sitecore/documentlibrary/Download?item=C636C6C9-3737-45E9-AA7A-7C350AAB9E8C&amp;field=Document" target="_blank">股票交易申請書</a>」，填妥並加蓋受益人原留印鑑。</span></li>
                 <li style="list-style-type: decimal;"><span class="body-one">請傳真至02-3393-0588，並撥打02-8770-9985確認。
                 </span></li>
             </ul>
             </td>
             <td style="padding: 10px; width: 210px; height: 60%; background-color: #ffffff;" rowspan="1">
             <ul class="custom-ul" style="margin: 0px; padding: 0px 0px 0px 25px;">
-                <li style="list-style-type: decimal;"><span class="body-one">下載列印「<a></a><a rel="noopener noreferrer" href="https://tw.allianzgi.com/api/sitecore/documentlibrary/Download?item=C636C6C9-3737-45E9-AA7A-7C350AAB9E8C&amp;field=Document" target="_blank">基金交易申請書</a>」填妥並加蓋受益人原留印鑑</span></li>
+                <li style="list-style-type: decimal;"><span class="body-one">下載列印「<a></a><a rel="noopener noreferrer" href="https://tw.allianzgi.com/api/sitecore/documentlibrary/Download?item=C636C6C9-3737-45E9-AA7A-7C350AAB9E8C&amp;field=Document" target="_blank">股票交易申請書</a>」填妥並加蓋受益人原留印鑑</span></li>
                 <li style="list-style-type: decimal;"><span class="body-one">檢附受益人本人買回款項匯入帳號之存摺封面影本。</span></li>
-                <li style="list-style-type: decimal;"><span class="body-one">以上文件請掛號郵寄至 『新北市新店區中正路531-1號7樓 德恩投資 基金事務單位』辦理。</span></li>
+                <li style="list-style-type: decimal;"><span class="body-one">以上文件請掛號郵寄至 『新北市新店區中正路531-1號7樓 德恩投資 股票事務單位』辦理。</span></li>
             </ul>
             </td>
             <td rowspan="1" style="padding: 10px; width: 210px; height: 60%; background-color: #ffffff;">
@@ -2379,23 +2379,23 @@
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-24" class="c-agi-accordion__button">Q25.買回投信系列基金，是以哪一天的淨值買回？</button>
+                                <button aria-controls="tab-content-24" class="c-agi-accordion__button">Q25.買回投信系列股票，是以哪一天的淨值買回？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-24">
-                                    <p><span class="body-one">「德恩台灣大壩基金、德恩台灣科技基金、德恩台灣智慧基金、德恩台灣貨幣市場基金、德恩中華新思路基金」，五檔基金若於基金營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日之次一營業日淨值計算；其它德恩投資系列基金若於基金營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日當日淨值計算。</span></p>
+                                    <p><span class="body-one">「德恩台灣大壩股票、德恩台灣科技股票、德恩台灣智慧股票、德恩台灣貨幣市場股票、德恩中華新思路股票」，五檔股票若於股票營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日之次一營業日淨值計算；其它德恩投資系列股票若於股票營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日當日淨值計算。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-25" class="c-agi-accordion__button">Q26.投信系列基金買回要支付任何費用嗎？何時可收到買回價款？</button>
+                                <button aria-controls="tab-content-25" class="c-agi-accordion__button">Q26.投信系列股票買回要支付任何費用嗎？何時可收到買回價款？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-25">
                                     <p><span class="body-one">直接向本公司申請買回時，無需支付買回費用，但買回款匯回之匯費或支票(劃線禁背)郵寄之郵資，將由保管機構自買回價金中逕予扣除。</span></p>
-<p><span class="body-one">買回價款依不同基金類別其入帳時間有所不同。分別說明如下：</span></p>
-<p><span class="body-one">1. 貨幣市場基金：買回交易日之次1個營業日內入帳</span></p>
-<p><span class="body-one">2. 投資國內股票型基金：買回交易日之次3個營業日內入帳。</span></p>
-<p><span class="body-one">3. 投資全球債券基金：買回交易日之次4個營業日入帳。</span></p>
-<p><span class="body-one">4. 投資海外股票型（或組合型）基金：買回交易日之次5個營業日內入帳。</span></p>
+<p><span class="body-one">買回價款依不同股票類別其入帳時間有所不同。分別說明如下：</span></p>
+<p><span class="body-one">1. 貨幣市場股票：買回交易日之次1個營業日內入帳</span></p>
+<p><span class="body-one">2. 投資國內股票型股票：買回交易日之次3個營業日內入帳。</span></p>
+<p><span class="body-one">3. 投資全球債券股票：買回交易日之次4個營業日入帳。</span></p>
+<p><span class="body-one">4. 投資海外股票型（或組合型）股票：買回交易日之次5個營業日內入帳。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
 <p><span class="body-one">備註：<br />
-買回交易日：每營業日當天下午4:00以前完成交易申請，且該檔基金當日無暫停計算淨值，若該基金暫停計算淨值，則依暫停計算淨值期間往後順延。各基金之贖回淨值適用日請參考公開說明書。</span></p>
+買回交易日：每營業日當天下午4:00以前完成交易申請，且該檔股票當日無暫停計算淨值，若該股票暫停計算淨值，則依暫停計算淨值期間往後順延。各股票之贖回淨值適用日請參考公開說明書。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
@@ -2407,14 +2407,14 @@
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-27" class="c-agi-accordion__button">Q28.請問網路交易之部分買回或轉申購有何限制？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-27">
-                                    <p><span class="body-one">每次轉換或買回之單位數不得低於100個單位，且買回後之庫存單位數不得低於100個單位，貨幣市場基金最低買回或剩餘不得低於5,000個單位，若庫存低於最低持有單位數，需全數買回或全數轉申購。</span></p>
-<p><span class="body-one">除法令變更外，受益人每日電子交易之買回金額均各以新臺幣3,000萬元或等值外幣為上限，其中境內基金買回限額係依申請前二個營業日之基金淨值計算。受益人若超過上述交易限額，系統將不接受該筆交易，須更改以符合限額內之可交易金額或單位數，否則本公司將不予受理。</span></p>
+                                    <p><span class="body-one">每次轉換或買回之單位數不得低於100個單位，且買回後之庫存單位數不得低於100個單位，貨幣市場股票最低買回或剩餘不得低於5,000個單位，若庫存低於最低持有單位數，需全數買回或全數轉申購。</span></p>
+<p><span class="body-one">除法令變更外，受益人每日電子交易之買回金額均各以新臺幣3,000萬元或等值外幣為上限，其中境內股票買回限額係依申請前二個營業日之股票淨值計算。受益人若超過上述交易限額，系統將不接受該筆交易，須更改以符合限額內之可交易金額或單位數，否則本公司將不予受理。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-28" class="c-agi-accordion__button">Q29.基金買回時，可將買回款項匯入他人帳戶嗎？</button>
+                                <button aria-controls="tab-content-28" class="c-agi-accordion__button">Q29.股票買回時，可將買回款項匯入他人帳戶嗎？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-28">
-                                    <p><span class="body-one">依洗錢防制法規定，基金買回之款項必須匯入受益人本人之帳戶。</span></p>
+                                    <p><span class="body-one">依洗錢防制法規定，股票買回之款項必須匯入受益人本人之帳戶。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
@@ -2436,7 +2436,7 @@
             <p class="style1" style="text-align: center;"><span class="body-one" style="color: #ffffff;">緣由</span></p>
             </td>
             <td valign="middle" style="background-color: #ffffff; border-color: #e1e1e1; width: 588px; height: 50px;padding: 0px 10px;" rowspan="1" colspan="1">
-            <p><span class="body-one">當投資人短線進出基金時，基金必須出售持有的有價證券變現來支付受益人的買回價款。但可能市場時機並不利賣出持股，基金績效就可能因而受損。此外，基金因為應付買回而被迫增加出售持股的次數，也會使基金證券交易與稅賦成本增加，都可能影響長期持有的受益人權益。</span></p>
+            <p><span class="body-one">當投資人短線進出股票時，股票必須出售持有的有價證券變現來支付受益人的買回價款。但可能市場時機並不利賣出持股，股票績效就可能因而受損。此外，股票因為應付買回而被迫增加出售持股的次數，也會使股票證券交易與稅賦成本增加，都可能影響長期持有的受益人權益。</span></p>
             </td>
         </tr>
         <tr>
@@ -2444,15 +2444,15 @@
             <p class="style1" style="text-align: center;"><span class="body-one" style="color: #ffffff;">規範</span></p>
             </td>
             <td valign="middle" style="background-color: #ffffff; border-color: #e1e1e1; width: 588px; height: 50px;padding: 0px 10px;" rowspan="1" colspan="1">
-            <p><span class="body-one">為避免受益人短線交易頻繁，稀釋基金獲利，主管機關金管會於2005年5月12日明定短線交易規範於「證券投資信託基金募集發行銷售及其申購或買回作業程序」第26條，由經理公司依基金特性及大多數受益人權益考量，訂定短線交易期間，並收取短線交易買回費用，且該費用將再歸入基金資產。</span></p>
+            <p><span class="body-one">為避免受益人短線交易頻繁，稀釋股票獲利，主管機關金管會於2005年5月12日明定短線交易規範於「證券投資信託股票募集發行銷售及其申購或買回作業程序」第26條，由經理公司依股票特性及大多數受益人權益考量，訂定短線交易期間，並收取短線交易買回費用，且該費用將再歸入股票資產。</span></p>
             </td>
         </tr>
         <tr>
             <td style="background-color: #003781; border-color: #e1e1e1; width: 43px;" rowspan="1" colspan="1">
             <p class="style1" style="text-align: center;"><span class="body-one" style="color: #ffffff;">費用計算方式</span></p>
             </td>
-            <td valign="middle" style="background-color: #ffffff; border-color: #e1e1e1; width: 588px; height: 50px;padding: 10px 10px;" rowspan="1" colspan="1"><span class="body-one">1. 本公司目前短線交易之買回費率為0.3%。短線交易買回費用之收取，係適用於同一基金申購日起持有少於14日曆日即買回之情形。<br />
-            2. 所有基金定期定額交易及同一基金不同股份類別間之轉換，或同一基金買回再轉申購同一基金或貨幣市場基金，不納入短線交易範圍。</span></td>
+            <td valign="middle" style="background-color: #ffffff; border-color: #e1e1e1; width: 588px; height: 50px;padding: 10px 10px;" rowspan="1" colspan="1"><span class="body-one">1. 本公司目前短線交易之買回費率為0.3%。短線交易買回費用之收取，係適用於同一股票申購日起持有少於14日曆日即買回之情形。<br />
+            2. 所有股票定期定額交易及同一股票不同股份類別間之轉換，或同一股票買回再轉申購同一股票或貨幣市場股票，不納入短線交易範圍。</span></td>
         </tr>
     </tbody>
 </table>
@@ -2460,47 +2460,47 @@
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-30" class="c-agi-accordion__button">Q31.德恩台灣貨幣市場基金是否有短線交易問題？</button>
+                                <button aria-controls="tab-content-30" class="c-agi-accordion__button">Q31.德恩台灣貨幣市場股票是否有短線交易問題？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-30">
-                                    <p><span class="body-one">根據公開說明書，本基金無短線交易規定。</span></p>
+                                    <p><span class="body-one">根據公開說明書，本股票無短線交易規定。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-31" class="c-agi-accordion__button">Q32.轉申購手續費如何計算？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-31">
-                                    <p><span class="body-one">轉申購手續費是於買回原持有基金之款項中扣除，扣除後的買回款項再申購新基金。</span></p>
-<p><span class="body-one">轉換手續費率依下單方式不同而定，請參考「<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">境內基金手續費率一覽表</a>」。</span></p>
+                                    <p><span class="body-one">轉申購手續費是於買回原持有股票之款項中扣除，扣除後的買回款項再申購新股票。</span></p>
+<p><span class="body-one">轉換手續費率依下單方式不同而定，請參考「<a rel="noopener noreferrer" href="https://tw.allianzgi.com/documents/AGI-rate" target="_blank">境內股票手續費率一覽表</a>」。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
-<p><span class="body-one">備註：不同幣別計價基金不得相互轉換。</span></p>
+<p><span class="body-one">備註：不同幣別計價股票不得相互轉換。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-32" class="c-agi-accordion__button">Q33.境內基金轉申購時，淨值如何計算？</button>
+                                <button aria-controls="tab-content-32" class="c-agi-accordion__button">Q33.境內股票轉申購時，淨值如何計算？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-32">
-                                    <p><span class="body-one">基金轉申購是先買回原持有基金再申購新基金。</span></p>
-<p><span class="body-one">「德恩台灣大壩基金、德恩台灣科技基金、德恩台灣智慧基金、德恩台灣貨幣市場基金、德恩中華新思路基金」等五檔基金，若於基金營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日之次一營業日淨值計算；其它德恩投資系列基金若於基金營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日當日淨值計算。</span></p>
-<p><span class="body-one">原持有基金之買回款項匯入日即為新基金申購淨值計算日。實際淨值日期請以交易確認書為準。惟若投資人就下列三檔德恩投資台股基金「德恩台灣大壩基金、德恩台灣科技基金、德恩台灣智慧基金」彼此進行轉申購，則得以該轉申購申請(T)日之次一營業(T+1)日之基金淨值為申購淨值計算日之計算基準。</span></p>
+                                    <p><span class="body-one">股票轉申購是先買回原持有股票再申購新股票。</span></p>
+<p><span class="body-one">「德恩台灣大壩股票、德恩台灣科技股票、德恩台灣智慧股票、德恩台灣貨幣市場股票、德恩中華新思路股票」等五檔股票，若於股票營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日之次一營業日淨值計算；其它德恩投資系列股票若於股票營業日當天交易時間內（下午四點）前完成交易，除另有暫停交易公告，買回皆以交易申請成功日當日淨值計算。</span></p>
+<p><span class="body-one">原持有股票之買回款項匯入日即為新股票申購淨值計算日。實際淨值日期請以交易確認書為準。惟若投資人就下列三檔德恩投資台股股票「德恩台灣大壩股票、德恩台灣科技股票、德恩台灣智慧股票」彼此進行轉申購，則得以該轉申購申請(T)日之次一營業(T+1)日之股票淨值為申購淨值計算日之計算基準。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-33" class="c-agi-accordion__button">Q34.購買投信基金會有稅負的問題嗎？</button>
+                                <button aria-controls="tab-content-33" class="c-agi-accordion__button">Q34.購買投信股票會有稅負的問題嗎？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-33">
-                                    <p><span class="body-one">基金交易之資本利得不需課稅；若所投資之基金有利息配發且配息來源為基金所投資之國內股息股利，則需列入個人年度利息所得計算綜合所得稅；若配息來源為海外收入，則需列入個人之海外所得申報。</span></p>
+                                    <p><span class="body-one">股票交易之資本利得不需課稅；若所投資之股票有利息配發且配息來源為股票所投資之國內股息股利，則需列入個人年度利息所得計算綜合所得稅；若配息來源為海外收入，則需列入個人之海外所得申報。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-34" class="c-agi-accordion__button">Q35.什麼是基金經理費及基金保管費？</button>
+                                <button aria-controls="tab-content-34" class="c-agi-accordion__button">Q35.什麼是股票經理費及股票保管費？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-34">
-                                    <p><span class="body-one">經理費：是基金支付給經理公司（即基金公司），做為投資、營運、管理之用。</span></p>
-<p><span class="body-one">保管費：是基金支付給負責保管及交割處分基金資產的保管機構（通常為銀行等金融機構）的費用。</span></p>
+                                    <p><span class="body-one">經理費：是股票支付給經理公司（即股票公司），做為投資、營運、管理之用。</span></p>
+<p><span class="body-one">保管費：是股票支付給負責保管及交割處分股票資產的保管機構（通常為銀行等金融機構）的費用。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
-<p><span class="body-one">基金經理費與保管費之費率分別載明於基金公開說明書上，自成立日起，逐日就基金規模攤提計算，並反應在淨值上，投資人不需再額外支付。</span></p>
+<p><span class="body-one">股票經理費與保管費之費率分別載明於股票公開說明書上，自成立日起，逐日就股票規模攤提計算，並反應在淨值上，投資人不需再額外支付。</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-35" class="c-agi-accordion__button">Q36.對帳單、交易確認單及收益分配確認單有何不同？寄發方式為何？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-35">
-                                    <p><span class="body-one">對帳單：記載每月或每季所持有的基金明細，若有結餘單位數即會寄發。</span></p>
+                                    <p><span class="body-one">對帳單：記載每月或每季所持有的股票明細，若有結餘單位數即會寄發。</span></p>
 <p><span class="body-one">交易確認單：記載當次交易明細，若有交易即會寄發。</span></p>
 <p><span class="body-one">收益分配確認單：記載收益分配明細，若有配息即會寄發。</span></p>
 <p><span class="body-one">&nbsp;</span></p>
@@ -2517,15 +2517,15 @@
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-37" class="c-agi-accordion__button">Q38.彈性扣適用哪些基金交易優惠？</button>
+                                <button aria-controls="tab-content-37" class="c-agi-accordion__button">Q38.彈性扣適用哪些股票交易優惠？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-37">
                                     <p><span class="body-one">彈性扣為定期定額-日日扣交易所新增的功能，因此優惠比照當前定期定額-日日扣所適用的優惠內容</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
-                                <button aria-controls="tab-content-38" class="c-agi-accordion__button">Q39.彈性扣適用於境外基金嗎？</button>
+                                <button aria-controls="tab-content-38" class="c-agi-accordion__button">Q39.彈性扣適用於境外股票嗎？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-38">
-                                    <p><span class="body-one">投信基金與境外基金都適用</span></p>
+                                    <p><span class="body-one">投信股票與境外股票都適用</span></p>
                                 </div>
                             </li>
                             <li class="c-agi-accordion__item " aria-expanded="">
@@ -2546,7 +2546,7 @@
         </tr>
         <tr>
             <td style="width: 217px;">
-            <p>投信系列基金 </p>
+            <p>投信系列股票 </p>
             </td>
             <td style="width: 227px;">
             <p style="text-align: center;">新臺幣 3,000元<br />
@@ -2558,7 +2558,7 @@
         </tr>
         <tr>
             <td style="width: 217px;">
-            <p>德恩台灣貨幣市場基金、外幣計價的境內基金 </p>
+            <p>德恩台灣貨幣市場股票、外幣計價的境內股票 </p>
             </td>
             <td style="width: 227px;">
             <p style="text-align: center;">暫不開放 </p>
@@ -2569,7 +2569,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="width: 217px;">
-            <p>境外基金 </p>
+            <p>境外股票 </p>
             </td>
             <td style="width: 227px;">
             <p style="text-align: center;">新臺幣：5,000元<br />
@@ -2613,8 +2613,8 @@
                             <li class="c-agi-accordion__item " aria-expanded="">
                                 <button aria-controls="tab-content-43" class="c-agi-accordion__button">Q44.若調整報酬率的加減碼條件與金額，是下一個扣款日生效嗎？</button>
                                 <div class="c-agi-accordion__content agi-rte" id="tab-content-43">
-                                    <p><span class="body-one">1.境內基金－日日扣：申購／異動：於營業日16：00（含）以前申請則次一日生效，逾時則視為次一營業日申請。</span></p>
-<p><span class="body-one">2.境外基金－日日扣：申購／異動：於營業日13：00（含）以前申請則次一日生效，逾時則視為次一營業日申請。</span></p>
+                                    <p><span class="body-one">1.境內股票－日日扣：申購／異動：於營業日16：00（含）以前申請則次一日生效，逾時則視為次一營業日申請。</span></p>
+<p><span class="body-one">2.境外股票－日日扣：申購／異動：於營業日13：00（含）以前申請則次一日生效，逾時則視為次一營業日申請。</span></p>
 <p><span class="body-one">&rarr;契約異動生效後，扣款金額才會依據調整後的設定進行扣款</span></p>
                                 </div>
                             </li>
@@ -2675,7 +2675,7 @@
                 <div class="l-grid__column-12">
                     <div class="c-pre-footer">
                             <p class="c-copy t-primary-brand c-copy--xlarge c-pre-footer__text">
-                                主動式基金專家  德恩投資
+                                主動式股票投資專家  德恩投資
                             </p>
                                             </div>
                 </div>
@@ -2692,23 +2692,23 @@
                                             <div class="l-grid__column-medium-4">
                                                     <h6 class="c-heading c-footer__navigation-headline c-heading--subsection-xsmall">
 
-<a href="/zh-tw/products-solutions/taiwan-onshore" >基金資訊與淨值</a>
+<a href="/zh-tw/products-solutions/taiwan-onshore" >股票資訊與淨值</a>
                                                     </h6>
                                                 <ul class="c-footer__navigation-list">
                                                                         <li class="c-footer__navigation-item">
-<a href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" class="c-footer__navigation-link c-link" data-track="footer" >基金績效</a>                                                                        </li>
+<a href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" class="c-footer__navigation-link c-link" data-track="footer" >股票績效</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/fund-calendar" class="c-footer__navigation-link c-link" data-track="footer" >基金休市/配息行事曆</a>                                                                        </li>
+<a href="/zh-tw/fund-calendar" class="c-footer__navigation-link c-link" data-track="footer" >股票休市/配息行事曆</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >基金申購優惠</a>                                                                        </li>
+<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >股票申購優惠</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/products-solutions/taiwan-onshore?ShowTrackedFunds=true" class="c-footer__navigation-link c-link" data-track="footer" >我的觀察清單</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >基金公告</a>                                                                        </li>
+<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >股票公告</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點基金檔案</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點股票檔案</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門基金快訊</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門股票快訊</a>                                                                        </li>
 
 
 
@@ -2722,9 +2722,9 @@
                                                     </h6>
                                                 <ul class="c-footer__navigation-list">
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點基金檔案</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點股票檔案</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門基金快訊</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門股票快訊</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/insights/weekly-taiwan-market-insight" class="c-footer__navigation-link c-link" data-track="footer" >台股市場週報</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2756,7 +2756,7 @@
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/announcement/latest-announcement" class="c-footer__navigation-link c-link" data-track="footer" >最新消息</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >基金公告</a>                                                                        </li>
+<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >股票公告</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/announcement/latest-announcement/financial-business" class="c-footer__navigation-link c-link" data-track="footer" >線上講座-德恩e學苑</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2778,7 +2778,7 @@
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/faq-online-account-open" class="c-footer__navigation-link c-link" data-track="footer" >常見問題</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >基金申購優惠</a>                                                                        </li>
+<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >股票申購優惠</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/event/openaccount" class="c-footer__navigation-link c-link" data-track="footer" >開戶流程介紹</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2786,9 +2786,9 @@
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/event/ectool" class="c-footer__navigation-link c-link" data-track="footer" >四大投資機制</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/onshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >投信基金交易流程</a>                                                                        </li>
+<a href="/zh-tw/onshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >投信股票交易流程</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/offshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >境外基金交易流程</a>                                                                        </li>
+<a href="/zh-tw/offshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >境外股票交易流程</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/unregistered-preferences" class="c-footer__navigation-link c-link" data-track="footer" >訂閱/取消電子報</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2881,11 +2881,11 @@
 </div>
 <p style="text-align: center;"><a rel="noopener noreferrer" href="https://www.foi.org.tw" target="_blank"><img alt="" style="width: 163px; height: 65px;" src="/-/media/allianzgi/ap/taiwan/images/foi-1.gif?h=65&amp;w=163&amp;rev=a7c3ba733dbd481c9cd8949456045d09&amp;hash=4832A8133B6AD6BAF4A8E4F34389F87E" /></a></p>
 <p style="text-align: left;"><strong>【德恩投資　獨立經營管理】<br />
-本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責本基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用(境外基金含分銷費用)已揭露於基金之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外基金資訊觀測站中查詢。
-<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本基金可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本基金不適合無法承擔相關風險之投資人。非投資等級債券基金適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之基金不宜占其投資組合過高之比重。本基金得投資於非投資等級債券基金及新興市場債券基金，非投資等級債券基金之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券基金之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本基金可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本基金主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本基金有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本基金配息可能由基金的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型基金近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外基金配息金額之決定，係由境外基金機構根據已取得之資本利得及股息收益狀況，並考量基金經理人對於未來市場看法，評估預定之目標配息金額。若本基金因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
-基金投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱基金公開說明書有關投資風險之說明。在國內募集及銷售之境外基金，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外基金淨資產價值之百分之二十。基金投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本基金仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外基金淨資產價值之百分之二十之規定。本基金可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。基金如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本基金所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本基金之績效，本基金投資風險請詳閱基金公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年基金淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日基金淨值中)。
-<span style="color: #003781;">本基金可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
-投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關基金之ESG資訊，投資人應於申購前詳閱基金公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
+本股票經金管會核准或同意生效，惟不表示絕無風險。股票經理公司以往之經理績效不保證股票之最低投資收益；股票經理公司除盡善良管理人之注意義務外，不負責本股票之盈虧，亦不保證最低之收益，投資人申購前應詳閱股票公開說明書。有關股票應負擔之費用(境外股票含分銷費用)已揭露於股票之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外股票資訊觀測站中查詢。
+<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本股票可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本股票不適合無法承擔相關風險之投資人。非投資等級債券股票適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之股票不宜占其投資組合過高之比重。本股票得投資於非投資等級債券股票及新興市場債券股票，非投資等級債券股票之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券股票之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本股票可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本股票主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本股票有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本股票配息可能由股票的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型股票近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外股票配息金額之決定，係由境外股票機構根據已取得之資本利得及股息收益狀況，並考量股票經理人對於未來市場看法，評估預定之目標配息金額。若本股票因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
+股票投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱股票公開說明書有關投資風險之說明。在國內募集及銷售之境外股票，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外股票淨資產價值之百分之二十。股票投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本股票仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外股票淨資產價值之百分之二十之規定。本股票可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。股票如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本股票所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本股票之績效，本股票投資風險請詳閱股票公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年股票淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日股票淨值中)。
+<span style="color: #003781;">本股票可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
+投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關股票之ESG資訊，投資人應於申購前詳閱股票公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
                         </div>
                     </div>
                 <hr class="c-divider c-divider--compact c-footer__divider" aria-hidden="true" />
@@ -2927,11 +2927,11 @@
 </div>
 <p style="text-align: center;"><a rel="noopener noreferrer" href="https://www.foi.org.tw" target="_blank"><img alt="" style="width: 163px; height: 65px;" src="/-/media/allianzgi/ap/taiwan/images/foi-1.gif?h=65&amp;w=163&amp;rev=a7c3ba733dbd481c9cd8949456045d09&amp;hash=4832A8133B6AD6BAF4A8E4F34389F87E" /></a></p>
 <p style="text-align: left;"><strong>【德恩投資　獨立經營管理】<br />
-本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責本基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用(境外基金含分銷費用)已揭露於基金之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外基金資訊觀測站中查詢。
-<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本基金可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本基金不適合無法承擔相關風險之投資人。非投資等級債券基金適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之基金不宜占其投資組合過高之比重。本基金得投資於非投資等級債券基金及新興市場債券基金，非投資等級債券基金之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券基金之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本基金可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本基金主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本基金有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本基金配息可能由基金的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型基金近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外基金配息金額之決定，係由境外基金機構根據已取得之資本利得及股息收益狀況，並考量基金經理人對於未來市場看法，評估預定之目標配息金額。若本基金因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
-基金投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱基金公開說明書有關投資風險之說明。在國內募集及銷售之境外基金，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外基金淨資產價值之百分之二十。基金投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本基金仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外基金淨資產價值之百分之二十之規定。本基金可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。基金如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本基金所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本基金之績效，本基金投資風險請詳閱基金公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年基金淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日基金淨值中)。
-<span style="color: #003781;">本基金可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
-投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關基金之ESG資訊，投資人應於申購前詳閱基金公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
+本股票經金管會核准或同意生效，惟不表示絕無風險。股票經理公司以往之經理績效不保證股票之最低投資收益；股票經理公司除盡善良管理人之注意義務外，不負責本股票之盈虧，亦不保證最低之收益，投資人申購前應詳閱股票公開說明書。有關股票應負擔之費用(境外股票含分銷費用)已揭露於股票之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外股票資訊觀測站中查詢。
+<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本股票可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本股票不適合無法承擔相關風險之投資人。非投資等級債券股票適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之股票不宜占其投資組合過高之比重。本股票得投資於非投資等級債券股票及新興市場債券股票，非投資等級債券股票之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券股票之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本股票可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本股票主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本股票有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本股票配息可能由股票的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型股票近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外股票配息金額之決定，係由境外股票機構根據已取得之資本利得及股息收益狀況，並考量股票經理人對於未來市場看法，評估預定之目標配息金額。若本股票因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
+股票投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱股票公開說明書有關投資風險之說明。在國內募集及銷售之境外股票，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外股票淨資產價值之百分之二十。股票投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本股票仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外股票淨資產價值之百分之二十之規定。本股票可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。股票如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本股票所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本股票之績效，本股票投資風險請詳閱股票公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年股票淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日股票淨值中)。
+<span style="color: #003781;">本股票可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
+投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關股票之ESG資訊，投資人應於申購前詳閱股票公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
                             </div>
                         </div>
 

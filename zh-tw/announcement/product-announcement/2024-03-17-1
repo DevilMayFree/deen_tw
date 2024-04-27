@@ -7,7 +7,7 @@
 <html class="no-js" lang="zh-Hant">
 <!--<![endif]-->
     <head>
-    <title>【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金</title>
+    <title>【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票</title>
     <!--Page Metadata-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta charset="utf-8" />
@@ -15,7 +15,7 @@
     <meta name="msapplication-config" content="none" />
     <meta http-equiv="content-language" content="zh-TW" />
     <meta name="language" content="zh-TW" />
-    <meta name="title" content="【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金 | 德恩投資" />
+    <meta name="title" content="【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票 | 德恩投資" />
     <meta name="robots" content="follow, index" />
     <link rel="canonical" href="https://tw.allianzgi.com/zh-tw/announcement/product-announcement/2024-03-17-1" />
             <!-- Start: OneTrust Cookies Consent Notice -->
@@ -152,10 +152,10 @@
 </a>                            <nav class="c-main-navbar js-main-navbar" role="menubar">
                                     <ul role="menu" class="c-main-navbar__list">
                                                     <li role="menuitem" tabindex="0" class="c-main-navbar__item">
-                                                        <a id="nav1" aria-expanded="false" aria-haspopup="true" aria-label="基金資訊與淨值"
+                                                        <a id="nav1" aria-expanded="false" aria-haspopup="true" aria-label="股票資訊與淨值"
                                                            class="c-main-navbar__link js-main-navigation-link "
-                                                           data-track="topNavigation" data-track-info='{"navigationElement":"基金資訊與淨值"}'>
-                                                            <span class="c-main-navbar__title"> 基金資訊與淨值</span>
+                                                           data-track="topNavigation" data-track-info='{"navigationElement":"股票資訊與淨值"}'>
+                                                            <span class="c-main-navbar__title"> 股票資訊與淨值</span>
                                                         </a>
                                                     </li>
                                                     <li role="menuitem" tabindex="0" class="c-main-navbar__item">
@@ -427,29 +427,29 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="基金資訊與淨值" aria-expanded="false" aria-label="基金資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"基金資訊與淨值"}'>
-                            基金資訊與淨值
+                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="股票資訊與淨值" aria-expanded="false" aria-label="股票資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"股票資訊與淨值"}'>
+                            股票資訊與淨值
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
-                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="基金績效" aria-expanded="false" aria-label="基金績效" data-track="topNavigation" data-track-info='{"navigationElement":"基金績效"}'>
-                            基金績效
+                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="股票績效" aria-expanded="false" aria-label="股票績效" data-track="topNavigation" data-track-info='{"navigationElement":"股票績效"}'>
+                            股票績效
                         </a>
                     </li>
 
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="基金休市/配息行事曆" aria-expanded="false" aria-label="基金休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"基金休市/配息行事曆"}'>
-                            基金休市/配息行事曆
+                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="股票休市/配息行事曆" aria-expanded="false" aria-label="股票休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"股票休市/配息行事曆"}'>
+                            股票休市/配息行事曆
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -471,22 +471,22 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
                                                                 </ul>
@@ -539,8 +539,8 @@
                     </div>
                 </div>
                 <div class="nav-teaser-container l-grid__column-large-6 u-align-items-stretch">
-                    <div class="c-agi-teaser u-margin-bottom-m" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;impression&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
-                            <a href="/zh-tw/themes/investable-themes/rates" title="" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}' target="_blank">
+                    <div class="c-agi-teaser u-margin-bottom-m" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;impression&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
+                            <a href="/zh-tw/themes/investable-themes/rates" title="" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}' target="_blank">
                                 <div class="c-agi-teaser__image">
                                     <figure class="c-image u-hidden-medium-down c-image--1dot8by1">
                                         <img class="c-image__img" src="/-/media/allianzgi/ap/taiwan/country-landing-page/20230518-ig-new-banner.jpg?w=564&amp;rev=72044f5fec7948b8836867c2b1c89196&amp;hash=A94B22E9CCC24BDE0C8503E7E1279D74" loading="lazy" alt="">
@@ -555,14 +555,14 @@
                                                 2024首選
                                             </p>
                                         <h6 class="c-heading c-agi-tile__headline c-heading--link-black">
-                                                <a href="/zh-tw/themes/investable-themes/rates" title="德恩收益大師系列基金" target="_blank" class="c-heading__link" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
-                                                    德恩收益大師系列基金
+                                                <a href="/zh-tw/themes/investable-themes/rates" title="德恩收益大師系列股票" target="_blank" class="c-heading__link" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
+                                                    德恩收益大師系列股票
                                                 </a>
                                         </h6>
                                         <p class="c-copy c-agi-tile__text">
                                             有收益  更要成長
                                         </p>
-                                            <a class="c-link c-link--block c-link--icon" href="/zh-tw/themes/investable-themes/rates" aria-label="馬上了解" target="_blank" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列基金&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
+                                            <a class="c-link c-link--block c-link--icon" href="/zh-tw/themes/investable-themes/rates" aria-label="馬上了解" target="_blank" data-track="teaserClick" data-track-info='{&quot;event&quot;:&quot;promoSection&quot;,&quot;interaction&quot;:&quot;click&quot;,&quot;bannerName&quot;:&quot;德恩收益大師系列股票&quot;,&quot;bannerPosition&quot;:&quot;2&quot;}'>
                                                 <span aria-hidden="true" class="c-link__icon c-icon c-icon--arrow-right"></span>
                                                 <span class="c-link__text">馬上了解</span>
                                             </a>
@@ -588,7 +588,7 @@
 
                                                     <a id="nav1" href="#" target="" class="c-accordion__button js-main-navigation-link-mobile " data-track="topNavigation">
                                                         <span class="c-accordion__title">
-                                                            基金資訊與淨值
+                                                            股票資訊與淨值
 
                                                         </span>
                                                         <div class="c-accordion__indicator">
@@ -604,29 +604,29 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="基金資訊與淨值" aria-expanded="false" aria-label="基金資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"基金資訊與淨值"}'>
-                            基金資訊與淨值
+                        <a tabindex=0 href="/zh-tw/products-solutions/taiwan-onshore" target="" title="股票資訊與淨值" aria-expanded="false" aria-label="股票資訊與淨值" data-track="topNavigation" data-track-info='{"navigationElement":"股票資訊與淨值"}'>
+                            股票資訊與淨值
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
-                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="基金績效" aria-expanded="false" aria-label="基金績效" data-track="topNavigation" data-track-info='{"navigationElement":"基金績效"}'>
-                            基金績效
+                        <a tabindex=0 href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" target="" title="股票績效" aria-expanded="false" aria-label="股票績效" data-track="topNavigation" data-track-info='{"navigationElement":"股票績效"}'>
+                            股票績效
                         </a>
                     </li>
 
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="基金休市/配息行事曆" aria-expanded="false" aria-label="基金休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"基金休市/配息行事曆"}'>
-                            基金休市/配息行事曆
+                        <a tabindex=0 href="/zh-tw/fund-calendar" target="" title="股票休市/配息行事曆" aria-expanded="false" aria-label="股票休市/配息行事曆" data-track="topNavigation" data-track-info='{"navigationElement":"股票休市/配息行事曆"}'>
+                            股票休市/配息行事曆
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -647,22 +647,22 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
                                                                             </ul>
@@ -694,15 +694,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
 
@@ -815,15 +815,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點基金檔案" aria-expanded="false" aria-label="焦點基金檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點基金檔案"}'>
-                            焦點基金檔案
+                        <a tabindex=0 href="/zh-tw/insights/fund-commentary" target="" title="焦點股票檔案" aria-expanded="false" aria-label="焦點股票檔案" data-track="topNavigation" data-track-info='{"navigationElement":"焦點股票檔案"}'>
+                            焦點股票檔案
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門基金快訊" aria-expanded="false" aria-label="熱門基金快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門基金快訊"}'>
-                            熱門基金快訊
+                        <a tabindex=0 href="/zh-tw/insights/fund-quick-commentary" target="" title="熱門股票快訊" aria-expanded="false" aria-label="熱門股票快訊" data-track="topNavigation" data-track-info='{"navigationElement":"熱門股票快訊"}'>
+                            熱門股票快訊
                         </a>
                     </li>
 
@@ -923,8 +923,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
@@ -1003,8 +1003,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="基金公告" aria-expanded="false" aria-label="基金公告" data-track="topNavigation" data-track-info='{"navigationElement":"基金公告"}'>
-                            基金公告
+                        <a tabindex=0 href="/zh-tw/announcement/product-announcement" target="" title="股票公告" aria-expanded="false" aria-label="股票公告" data-track="topNavigation" data-track-info='{"navigationElement":"股票公告"}'>
+                            股票公告
                         </a>
                     </li>
 
@@ -1091,8 +1091,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -1119,15 +1119,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信基金交易流程" aria-expanded="false" aria-label="投信基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信基金交易流程"}'>
-                            投信基金交易流程
+                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信股票交易流程" aria-expanded="false" aria-label="投信股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信股票交易流程"}'>
+                            投信股票交易流程
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外基金交易流程" aria-expanded="false" aria-label="境外基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外基金交易流程"}'>
-                            境外基金交易流程
+                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外股票交易流程" aria-expanded="false" aria-label="境外股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外股票交易流程"}'>
+                            境外股票交易流程
                         </a>
                     </li>
                                                                 </ul>
@@ -1212,8 +1212,8 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="基金申購優惠" aria-expanded="false" aria-label="基金申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"基金申購優惠"}'>
-                            基金申購優惠
+                        <a tabindex=0 href="/zh-tw/event/fundrecommend" target="" title="股票申購優惠" aria-expanded="false" aria-label="股票申購優惠" data-track="topNavigation" data-track-info='{"navigationElement":"股票申購優惠"}'>
+                            股票申購優惠
                         </a>
                     </li>
 
@@ -1240,15 +1240,15 @@
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信基金交易流程" aria-expanded="false" aria-label="投信基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信基金交易流程"}'>
-                            投信基金交易流程
+                        <a tabindex=0 href="/zh-tw/onshore-fund-trading-process-example" target="" title="投信股票交易流程" aria-expanded="false" aria-label="投信股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"投信股票交易流程"}'>
+                            投信股票交易流程
                         </a>
                     </li>
 
                     <li role="menuitem" class="c-navcontent__list-item">
 
-                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外基金交易流程" aria-expanded="false" aria-label="境外基金交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外基金交易流程"}'>
-                            境外基金交易流程
+                        <a tabindex=0 href="/zh-tw/offshore-fund-trading-process-example" target="" title="境外股票交易流程" aria-expanded="false" aria-label="境外股票交易流程" data-track="topNavigation" data-track-info='{"navigationElement":"境外股票交易流程"}'>
+                            境外股票交易流程
                         </a>
                     </li>
                                                                             </ul>
@@ -1772,7 +1772,7 @@
                 <p class="c-copy u-margin-bottom-none u-text-center u-margin-bottom-2xs">
                     
                 </p>
-                <h1 class="c-heading--article-page u-text-center u-margin-bottom-xs u-text-weight-light">【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金</h1>
+                <h1 class="c-heading--article-page u-text-center u-margin-bottom-xs u-text-weight-light">【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票</h1>
             </div>
         </div>
         <div class="l-grid__row">
@@ -1826,25 +1826,25 @@
                                                     <div class="c-share-icons social-sharing_toolbox">
                                                                 <a href="#" target="_blank" rel="noopener"
                                                                    class="social-sharing_facebook c-share-icons__link c-share-icons__link--facebook c-link c-link--icon" aria-label="Share on Facebook" data-track="social"
-                                                                   data-track-info="{&#39;channel&#39;:&#39;facebook&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金&#39;}">
+                                                                   data-track-info="{&#39;channel&#39;:&#39;facebook&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票&#39;}">
                                                                     <i class="c-share-icons__icon c-link__icon c-icon c-icon--facebook-circle"></i>
                                                                     <span class="u-hidden">Share on Facebook</span>
                                                                 </a>
                                                                 <a href="#" target="_blank" rel="noopener"
                                                                    class="social-sharing_linkedin c-share-icons__link c-share-icons__link--linkedin c-link c-link--icon" aria-label="Share on LinkedIn" data-track="social"
-                                                                   data-track-info="{&#39;channel&#39;:&#39;linkedin&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金&#39;}">
+                                                                   data-track-info="{&#39;channel&#39;:&#39;linkedin&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票&#39;}">
                                                                     <i class="c-share-icons__icon c-link__icon c-icon c-icon--linkedin-circle"></i>
                                                                     <span class="u-hidden">Share on LinkedIn</span>
                                                                 </a>
                                                                 <a href="#" target="_blank" rel="noopener"
                                                                    class="social-sharing_twitter c-share-icons__link c-share-icons__link--twitter c-link c-link--icon" aria-label="Share on Twitter" data-track="social"
-                                                                   data-track-info="{&#39;channel&#39;:&#39;twitter&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金&#39;}">
+                                                                   data-track-info="{&#39;channel&#39;:&#39;twitter&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票&#39;}">
                                                                     <i class="c-share-icons__icon c-link__icon c-icon c-icon--twitter-circle"></i>
                                                                     <span class="u-hidden">Share on Twitter</span>
                                                                 </a>
                                                                 <a href="#" target="" rel=""
                                                                    class="email-link c-share-icons__link c-link c-link--icon" aria-label="Share via email" data-track="social"
-                                                                   data-track-info="{&#39;channel&#39;:&#39;email&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列基金&#39;}">
+                                                                   data-track-info="{&#39;channel&#39;:&#39;email&#39;,&#39;title&#39;:&#39;【月配息通知】2024年03月：德恩環球投資－盧森堡系列股票&#39;}">
                                                                     <i class="c-share-icons__icon c-link__icon c-icon c-icon--mail-circle"></i>
                                                                     <span class="u-hidden">Share via email</span>
                                                                 </a>
@@ -1887,19 +1887,19 @@
 
                             <div class="u-padding-top-s c-copy">
 
-                                <p><span class="body-one">德恩環球投資－盧森堡系列基金配息通知，明細如下：<br />
+                                <p><span class="body-one">德恩環球投資－盧森堡系列股票配息通知，明細如下：<br />
 </span></p>
 <p><span class="body-one">配息基準日：2024 年 03 月 14 日<br />
 除息日：2024 年 03 月 15 日<br />
 再投資日：2024 年 03 月 15 日<br />
-現金股利付款日：2024 年 03 月 19 日，<span style="color: #ff0000;">係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因基金計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></span></p>
-<p><span class="body-one"><span class="body-one" style="color: #ff0000;"><strong>現金股利實際入帳日需視各銀行及集保結算所(TDCC)收款後作業時程而定</strong></span>，下表現金股利付款日係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因基金計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></p>
+現金股利付款日：2024 年 03 月 19 日，<span style="color: #ff0000;">係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因股票計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></span></p>
+<p><span class="body-one"><span class="body-one" style="color: #ff0000;"><strong>現金股利實際入帳日需視各銀行及集保結算所(TDCC)收款後作業時程而定</strong></span>，下表現金股利付款日係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因股票計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></p>
 <table class="body-one" bordercolor="#e1e1e1" style="width: 100%;" border="1" cellspacing="0" cellpadding="0" sizcache="4" sizset="74">
     <tbody sizcache="4" sizset="74">
         <tr>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center; background-color: #7f9bc0;"><span class="body-one" style="color: #ffffff;"><strong>序</strong></span></td>
             <td style="border: 2px solid #d8d8d8; border-image: none; width: 294px; background-color: #7f9bc0;">
-            <div style="text-align: center;"><strong><span class="body-one" style="color: #ffffff;"><strong>基金名稱</strong></span></strong></div>
+            <div style="text-align: center;"><strong><span class="body-one" style="color: #ffffff;"><strong>股票名稱</strong></span></strong></div>
             </td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; background-color: #7f9bc0;">
             <div style="text-align: center;"><strong><span class="body-one" style="color: #ffffff;"><strong>下單代碼</strong></span></strong></div>
@@ -1911,7 +1911,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">1</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4860">德恩美元非投資等級債券基金-IM穩定月收類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4860">德恩美元非投資等級債券股票-IM穩定月收類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FH8M </span></div>
             </td>
@@ -1921,7 +1921,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">2</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1076">德恩美元非投資等級債券基金-AM穩定月收類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1076">德恩美元非投資等級債券股票-AM穩定月收類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FHM </span></div>
             </td>
@@ -1931,7 +1931,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">3</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/300">德恩美元非投資等級債券基金-AM穩定月收類股(歐元避險)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/300">德恩美元非投資等級債券股票-AM穩定月收類股(歐元避險)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FHR </span></div>
             </td>
@@ -1941,7 +1941,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">4</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6101">德恩歐元非投資等級債券基金-IM穩定月收類股(美元避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6101">德恩歐元非投資等級債券股票-IM穩定月收類股(美元避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;">AGIF-FM8M</div>
             </td>
@@ -1951,7 +1951,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">5</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1859">德恩歐元非投資等級債券基金-AM穩定月收類股(美元避險)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1859">德恩歐元非投資等級債券股票-AM穩定月收類股(美元避險)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FMM</span></div>
             </td>
@@ -1961,7 +1961,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">6</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/847" target="_blank">德恩歐洲高息股票基金-AMg 穩定月收總收益類股(美元避險)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/847" target="_blank">德恩歐洲高息股票股票-AMg 穩定月收總收益類股(美元避險)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FQGM</span></div>
             </td>
@@ -1971,7 +1971,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">7</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1727" target="_blank">德恩歐洲高息股票基金-AM 穩定月收類股(美元避險)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1727" target="_blank">德恩歐洲高息股票股票-AM 穩定月收類股(美元避險)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FQM</span></div>
             </td>
@@ -1981,7 +1981,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">8</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1729" target="_blank">德恩歐洲高息股票基金-AM 穩定月收類股(歐元)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1729" target="_blank">德恩歐洲高息股票股票-AM 穩定月收類股(歐元)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FQR</span></div>
             </td>
@@ -1991,7 +1991,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">9</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4896">德恩全球新興市場高股息基金-AM 穩定月收類股(美元避險)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4896">德恩全球新興市場高股息股票-AM 穩定月收類股(美元避險)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FR2M</span></div>
             </td>
@@ -2001,7 +2001,7 @@
         </tr>
         <tr>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">10</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="84"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/966" target="_blank">德恩全球新興市場高股息基金-AMg 穩定月收總收益類股(美元)<strong>(基金之配息來源可能為本金)</strong><br />
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="84"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/966" target="_blank">德恩全球新興市場高股息股票-AMg 穩定月收總收益類股(美元)<strong>(股票之配息來源可能為本金)</strong><br />
             </a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FRGM</span></div>
@@ -2012,7 +2012,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">11</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5426" target="_blank" rel="noopener noreferrer">德恩全球永續發展基金-AMg穩定月收總收益類股(美元)<strong>(基金之配息來
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5426" target="_blank" rel="noopener noreferrer">德恩全球永續發展股票-AMg穩定月收總收益類股(美元)<strong>(股票之配息來
             源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FSGM</span></div>
@@ -2023,7 +2023,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">12</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6071" target="_blank" rel="noopener noreferrer">德恩收益成⻑基金-BMg7月收總收益類股(美元)<strong>(本基金有相當比重投資於非投
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6071" target="_blank" rel="noopener noreferrer">德恩收益成⻑股票-BMg7月收總收益類股(美元)<strong>(本股票有相當比重投資於非投
             資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVBGM</span></div>
@@ -2034,7 +2034,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">13</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6070" target="_blank" rel="noopener noreferrer">德恩收益成⻑基金-BM穩定月收類股(美元)<strong>(本基金有相當比重投資於非投
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6070" target="_blank" rel="noopener noreferrer">德恩收益成⻑股票-BM穩定月收類股(美元)<strong>(本股票有相當比重投資於非投
             資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVBM</span></div>
@@ -2045,7 +2045,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">14</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-income-and-growth-pm-usd" target="_blank">德恩收益成長基金-PM穩定月收類股(美元)<strong>(本基金有相當比重投資於非投資等級之高風險債券)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-income-and-growth-pm-usd" target="_blank">德恩收益成長股票-PM穩定月收類股(美元)<strong>(本股票有相當比重投資於非投資等級之高風險債券)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVF</span></div>
             </td>
@@ -2055,7 +2055,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">15</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/5713" target="_blank" rel="noopener noreferrer">德恩收益成長基金-AMg7月收總收益類股(美元)<strong>(本基金有相當比重投資於非
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/5713" target="_blank" rel="noopener noreferrer">德恩收益成長股票-AMg7月收總收益類股(美元)<strong>(本股票有相當比重投資於非
             投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVGM</span></div>
@@ -2066,7 +2066,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">16</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-income-and-growth-amg2-usd" target="_blank">德恩收益成長基金-AMg2 穩定月收類股(美元)<strong>(本基金有相當比重投資於非投資等級之高風險債券)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-income-and-growth-amg2-usd" target="_blank">德恩收益成長股票-AMg2 穩定月收類股(美元)<strong>(本股票有相當比重投資於非投資等級之高風險債券)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVHM</span></div>
             </td>
@@ -2076,7 +2076,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">17</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/2377" target="_blank">德恩收益成長基金-AM穩定月收類股(美元)<strong>(本基金有相當比重投資於非投資等級之高風險債券<strong>且配息來源可能為本金</strong>)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="85"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/2377" target="_blank">德恩收益成長股票-AM穩定月收類股(美元)<strong>(本股票有相當比重投資於非投資等級之高風險債券<strong>且配息來源可能為本金</strong>)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVM</span></div>
             </td>
@@ -2086,7 +2086,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">18</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="86"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1842" target="_blank">德恩收益成長基金-AM 穩定月收類股(歐元避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="86"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1842" target="_blank">德恩收益成長股票-AM 穩定月收類股(歐元避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FVR</span></div>
             </td>
@@ -2096,7 +2096,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">19</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/846" target="_blank">德恩亞洲靈活債券基金-AMg 穩定月收總收益類股(美元) <strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/846" target="_blank">德恩亞洲靈活債券股票-AMg 穩定月收總收益類股(美元) <strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FXGM<span class="body-one"> </span></span></div>
             </td>
@@ -2106,7 +2106,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">20</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/243" target="_blank">德恩亞洲靈活債券基金-AM 穩定月收類股(美元)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/243" target="_blank">德恩亞洲靈活債券股票-AM 穩定月收類股(美元)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-FXM<span class="body-one">
             </span></span></div>
@@ -2117,7 +2117,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">21</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-multi-asset-credit-amg-usd" target="_blank">德恩多元信用債券基金-AMg 穩定月收總收益類股(美元)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-multi-asset-credit-amg-usd" target="_blank">德恩多元信用債券股票-AMg 穩定月收總收益類股(美元)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MIGM</span></div>
             </td>
@@ -2127,7 +2127,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">22</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6098" target="_blank" rel="noopener noreferrer">德恩新興市場精選債券基金-IM穩定月收類股(美元)<strong>(本基金有相當比重投資於
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6098" target="_blank" rel="noopener noreferrer">德恩新興市場精選債券股票-IM穩定月收類股(美元)<strong>(本股票有相當比重投資於
             非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MM8M</span></div>
@@ -2138,7 +2138,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">23</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-emerging-markets-select-bond-bmg-usd" target="_blank" rel="noopener noreferrer">德恩新興市場精選債券基金-BMg穩定月收總收益類股(美元)<strong>(本基金有相當比
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-emerging-markets-select-bond-bmg-usd" target="_blank" rel="noopener noreferrer">德恩新興市場精選債券股票-BMg穩定月收總收益類股(美元)<strong>(本股票有相當比
             重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MMBGM</span></div>
@@ -2149,7 +2149,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">24</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4966" target="_blank" rel="noopener noreferrer">德恩新興市場精選債券基金-AMg穩定月收總收益類股(美元)<strong>(本基金有相當比
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4966" target="_blank" rel="noopener noreferrer">德恩新興市場精選債券股票-AMg穩定月收總收益類股(美元)<strong>(本股票有相當比
             重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MMGM</span></div>
@@ -2160,7 +2160,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">25</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" target="_blank" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/661">德恩美股收益基金-AM穩定月收類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" target="_blank" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/661">德恩美股收益股票-AM穩定月收類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MOM</span></div>
             </td>
@@ -2170,7 +2170,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">26</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6234" target="_blank">德恩綠色債券基金-AMf固定月配類股(美元避險)<strong>(基金之配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6234" target="_blank">德恩綠色債券股票-AMf固定月配類股(美元避險)<strong>(股票之配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MVFM</span></div>
             </td>
@@ -2180,7 +2180,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">27</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-intelligent-cities-income-bmf2-usd" target="_blank">德恩智慧城市收益基金-BMf2固定月配類股(美元)<strong>(本基金有相當比重投資於非投
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-intelligent-cities-income-bmf2-usd" target="_blank">德恩智慧城市收益股票-BMf2固定月配類股(美元)<strong>(本股票有相當比重投資於非投
             資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one"></span>AGIF-MXBFM</div>
@@ -2191,7 +2191,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">28</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-intelligent-cities-income-amf2-usd" target="_blank">德恩智慧城市收益基金-AMf2固定月配類股(美元)<strong>(本基金有相當比重投資於非投
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-intelligent-cities-income-amf2-usd" target="_blank">德恩智慧城市收益股票-AMf2固定月配類股(美元)<strong>(本股票有相當比重投資於非投
             資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MXFM</span></div>
@@ -2202,7 +2202,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">29</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-intelligent-cities-income-amg-usd" target="_blank">德恩智慧城市收益基金-AMg穩定月收總收益類股(美元)<strong>(本基金有相當比重投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-intelligent-cities-income-amg-usd" target="_blank">德恩智慧城市收益股票-AMg穩定月收總收益類股(美元)<strong>(本股票有相當比重投資
             於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-MXGM</span></div>
@@ -2213,7 +2213,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">30</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4833" target="_blank">德恩美元短年期非投資等級債券基金-IM穩定月收類股(美元)<strong>(本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4833" target="_blank">德恩美元短年期非投資等級債券股票-IM穩定月收類股(美元)<strong>(本股票主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NS8M</span></div>
             </td>
@@ -2223,7 +2223,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">31</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6067" target="_blank">德恩美元短年期非投資等級債券基金-BMg穩定月收總收益類股(美元)<strong>(本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6067" target="_blank">德恩美元短年期非投資等級債券股票-BMg穩定月收總收益類股(美元)<strong>(本股票主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NSBGM</span></div>
             </td>
@@ -2233,7 +2233,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">32</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5720" target="_blank">德恩美元短年期非投資等級債券基金-AMg穩定月收總收益類股(美元)<strong>(本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5720" target="_blank">德恩美元短年期非投資等級債券股票-AMg穩定月收總收益類股(美元)<strong>(本股票主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NSGM</span></div>
             </td>
@@ -2243,7 +2243,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">33</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/822" target="_blank">德恩美元短年期非投資等級債券基金-AM穩定月收類股(美元)<strong>(本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/822" target="_blank">德恩美元短年期非投資等級債券股票-AM穩定月收類股(美元)<strong>(本股票主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NSM</span></div>
             </td>
@@ -2253,7 +2253,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">34</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/959" target="_blank" rel="noopener noreferrer">德恩全球高息股票基金-AMg穩定月收總收益類股(美元)<strong>(基金之配息來源可能
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/959" target="_blank" rel="noopener noreferrer">德恩全球高息股票股票-AMg穩定月收總收益類股(美元)<strong>(股票之配息來源可能
             為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NVGM</span></div>
@@ -2264,7 +2264,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">35</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/337" target="_blank" rel="noopener noreferrer">德恩全球機會債券基金-IM穩定月收類股(美元)<strong>(本基金有⼀定比重得投資於非
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/337" target="_blank" rel="noopener noreferrer">德恩全球機會債券股票-IM穩定月收類股(美元)<strong>(本股票有⼀定比重得投資於非
             投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NZ8M</span></div>
@@ -2275,7 +2275,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">36</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6230" target="_blank" rel="noopener noreferrer">德恩全球機會債券基金-BMf固定月配類股(美元)<strong>(本基金有⼀定比重得投資於
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6230" target="_blank" rel="noopener noreferrer">德恩全球機會債券股票-BMf固定月配類股(美元)<strong>(本股票有⼀定比重得投資於
             非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NZBFM</span></div>
@@ -2286,7 +2286,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">37</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6226" target="_blank" rel="noopener noreferrer">德恩全球機會債券基金-AMf固定月配類股(美元)<strong>(本基金有⼀定比重得投資於
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6226" target="_blank" rel="noopener noreferrer">德恩全球機會債券股票-AMf固定月配類股(美元)<strong>(本股票有⼀定比重得投資於
             非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NZFM</span></div>
@@ -2297,7 +2297,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">38</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/337" target="_blank" rel="noopener noreferrer">德恩全球機會債券基金-AMg穩定月收總收益類股(美元)<strong>(本基金有一定比重得
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/337" target="_blank" rel="noopener noreferrer">德恩全球機會債券股票-AMg穩定月收總收益類股(美元)<strong>(本股票有一定比重得
             投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-NZGM</span></div>
@@ -2308,7 +2308,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">39</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6233" target="_blank" rel="noopener noreferrer">德恩美國收益基金-BMf固定月配類股(美元)<strong>(本基金有相當比重投資於非投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6233" target="_blank" rel="noopener noreferrer">德恩美國收益股票-BMf固定月配類股(美元)<strong>(本股票有相當比重投資於非投資
             等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PABFM</span></div>
@@ -2319,7 +2319,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">40</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6068" target="_blank" rel="noopener noreferrer">德恩美國收益基金-BMg穩定月收總收益類股(美元)<strong>(本基金有相當比重投資於
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6068" target="_blank" rel="noopener noreferrer">德恩美國收益股票-BMg穩定月收總收益類股(美元)<strong>(本股票有相當比重投資於
             非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PABGM</span></div>
@@ -2330,7 +2330,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">41</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6232" target="_blank" rel="noopener noreferrer">德恩美國收益基金-AMf固定月配類股(美元)<strong>(本基金有相當比重投資於非投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6232" target="_blank" rel="noopener noreferrer">德恩美國收益股票-AMf固定月配類股(美元)<strong>(本股票有相當比重投資於非投資
             等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PAFM</span></div>
@@ -2341,7 +2341,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">42</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-american-income-amg-usd" target="_blank" rel="noopener noreferrer">德恩美國收益基金-AMg穩定月收總收益類股(美元)<strong>(本基金有相當比重投資於
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-american-income-amg-usd" target="_blank" rel="noopener noreferrer">德恩美國收益股票-AMg穩定月收總收益類股(美元)<strong>(本股票有相當比重投資於
             非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PAGM</span></div>
@@ -2352,7 +2352,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">43</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-american-income-am-usd" target="_blank" rel="noopener noreferrer">德恩美國收益基金-AM穩定月收類股(美元)<strong>(本基金有相當比重投資於非投資等
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-american-income-am-usd" target="_blank" rel="noopener noreferrer">德恩美國收益股票-AM穩定月收類股(美元)<strong>(本股票有相當比重投資於非投資等
             級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PAM</span></div>
@@ -2363,7 +2363,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">44</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-income-bmf2-usd" target="_blank" rel="noopener noreferrer">德恩全球收益成⻑基金-BMf2固定月配類股(美元)<strong>(本基金有相當比重投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-income-bmf2-usd" target="_blank" rel="noopener noreferrer">德恩全球收益成⻑股票-BMf2固定月配類股(美元)<strong>(本股票有相當比重投資
             於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PGBFM</span></div>
@@ -2374,7 +2374,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">45</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-income-amf2-usd" target="_blank" rel="noopener noreferrer">德恩全球收益成⻑基金-AMf2固定月配類股(美元)<strong>(本基金有相當比重投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-global-income-amf2-usd" target="_blank" rel="noopener noreferrer">德恩全球收益成⻑股票-AMf2固定月配類股(美元)<strong>(本股票有相當比重投資
             於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PGFM</span></div>
@@ -2385,7 +2385,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">46</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a target="_blank" rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6092">德恩全球收益成⻑基金-AMg穩定月收總收益類股(美元)<strong>(本基金有相當比重投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><span class="body-one"><a target="_blank" rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/6092">德恩全球收益成⻑股票-AMg穩定月收總收益類股(美元)<strong>(本股票有相當比重投資
             於非投資等級之高風險債券且配息來源可能為本金)</strong></a></span></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;"><span class="body-one">AGIF-PGGM</span></div>
@@ -2401,14 +2401,14 @@
 <p><span class="body-one">配息基準日：2024 年 03 月 14 日<br />
 除息日：2024 年 03 月 15 日<br />
 再投資日：2024 年 03 月 15 日<br />
-現金股利付款日：2024 年 03 月 20 日，<span style="color: #ff0000;">係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因基金計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></span></p>
-<p><span class="body-one"><span class="body-one" style="color: #ff0000;"><strong>現金股利實際入帳日需視各銀行及集保結算所(TDCC)收款後作業時程而定</strong></span>，下表現金股利付款日係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因基金計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></p>
+現金股利付款日：2024 年 03 月 20 日，<span style="color: #ff0000;">係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因股票計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></span></p>
+<p><span class="body-one"><span class="body-one" style="color: #ff0000;"><strong>現金股利實際入帳日需視各銀行及集保結算所(TDCC)收款後作業時程而定</strong></span>，下表現金股利付款日係指境外機構(德恩環球投資亞太有限公司)匯出款項之時間，國際匯款會因股票計價幣別之匯市休市而遞延，若遇台灣過年期間或連續休假可能影響配息入帳時間。 惟個別投資人接獲現金股利之實際入帳日，仍應視集保結算所或銷售機構之內部作業程序，入帳日可能距上開公告之現金股利付款日約有1至2日之差異(仍可能因個案不同)。</span></p>
 <table align="center" class="body-one" bordercolor="#e1e1e1" style="width: 100%;" border="1" cellspacing="0" cellpadding="0" sizcache="4" sizset="87">
     <tbody sizcache="4" sizset="80">
         <tr>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center; background-color: #7f9bc0;"><span class="body-one" style="color: #ffffff;"><strong>序</strong></span></td>
             <td style="border: 2px solid #d8d8d8; border-image: none; width: 294px; background-color: #7f9bc0;">
-            <div style="text-align: center;"><strong><span class="body-one" style="color: #ffffff;">基金名稱</span></strong></div>
+            <div style="text-align: center;"><strong><span class="body-one" style="color: #ffffff;">股票名稱</span></strong></div>
             </td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; background-color: #7f9bc0;">
             <div style="text-align: center;"><strong><span class="body-one" style="color: #ffffff;">下單代碼</span></strong></div>
@@ -2420,7 +2420,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">1</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/302">德恩美元非投資等級債券基金-AM穩定月收類股(澳幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/302">德恩美元非投資等級債券股票-AM穩定月收類股(澳幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FHP </div>
             </td>
@@ -2430,7 +2430,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">2</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4834">德恩美元非投資等級債券基金-AM穩定月收類股(南非幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/4834">德恩美元非投資等級債券股票-AM穩定月收類股(南非幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FHZ </div>
             </td>
@@ -2440,7 +2440,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">3</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-asian-multi-income-plus-amg-usd">德恩亞洲多元收益基金-AMg穩定月收總收益類股(美元)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizset="80 sizcache="><a href="https://tw.allianzgi.com/zh-tw/products-solutions/luxemberg/allianz-asian-multi-income-plus-amg-usd">德恩亞洲多元收益股票-AMg穩定月收總收益類股(美元)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;">AGIF-FPGM</div>
             </td>
@@ -2450,7 +2450,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">4</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/498" target="_blank">德恩亞洲多元收益基金-AMg穩定月收總收益類股(澳幣避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/498" target="_blank">德恩亞洲多元收益股票-AMg穩定月收總收益類股(澳幣避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FPGP</div>
             </td>
@@ -2460,7 +2460,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">5</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/498" target="_blank">德恩全球新興市場高股息基金-AM穩定月收類股(澳幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/498" target="_blank">德恩全球新興市場高股息股票-AM穩定月收類股(澳幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FRP</div>
             </td>
@@ -2470,7 +2470,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">6</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/495" target="_blank">德恩全球新興市場高股息基金-AM穩定月收類股(南非幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/495" target="_blank">德恩全球新興市場高股息股票-AM穩定月收類股(南非幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FRZ</div>
             </td>
@@ -2480,7 +2480,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">7</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5717" target="_blank" rel="noopener noreferrer">德恩收益成長基金-AMg7月收總收益類股(澳幣避險)<strong>(本基金有相當比重投資
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5717" target="_blank" rel="noopener noreferrer">德恩收益成長股票-AMg7月收總收益類股(澳幣避險)<strong>(本股票有相當比重投資
             於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FVGP</div>
@@ -2491,7 +2491,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">8</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-income-and-growth-amg2-h2-aud-aud" target="_blank">德恩收益成長基金-AMg2穩定月收息類股(澳幣避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-income-and-growth-amg2-h2-aud-aud" target="_blank">德恩收益成長股票-AMg2穩定月收息類股(澳幣避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FVHP</div>
             </td>
@@ -2501,7 +2501,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">9</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1862" target="_blank">德恩收益成長基金-AM 穩定月收類股(港幣)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1862" target="_blank">德恩收益成長股票-AM 穩定月收類股(港幣)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FVN</div>
             </td>
@@ -2511,7 +2511,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">10</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="90"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/2376" target="_blank">德恩收益成長基金-AM 穩定月收類股(澳幣避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="90"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/2376" target="_blank">德恩收益成長股票-AM 穩定月收類股(澳幣避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FVP</div>
             </td>
@@ -2521,7 +2521,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">11</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1707" target="_blank">德恩收益成長基金-AM 穩定月收類股(紐幣避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1707" target="_blank">德恩收益成長股票-AM 穩定月收類股(紐幣避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FVT</div>
             </td>
@@ -2531,7 +2531,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">12</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1244" target="_blank">德恩收益成長基金-AM 穩定月收類股(南非幣避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1244" target="_blank">德恩收益成長股票-AM 穩定月收類股(南非幣避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-FVZ</div>
             </td>
@@ -2541,7 +2541,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">13</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-flexi-asia-bond-am-h2-aud-aud" target="_blank">德恩亞洲靈活債券基金-AM 穩定月收類股(澳幣避險)<strong>(本基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-flexi-asia-bond-am-h2-aud-aud" target="_blank">德恩亞洲靈活債券股票-AM 穩定月收類股(澳幣避險)<strong>(本股票有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">
             <div style="text-align: center;">AGIF-FXP</div>
             </td>
@@ -2551,7 +2551,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">14</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-amg-usd" target="_blank">德恩動力亞洲非投資等級債券基金-AMg穩定月收總收益類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-amg-usd" target="_blank">德恩動力亞洲非投資等級債券股票-AMg穩定月收總收益類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">
             <div style="text-align: center;">AGIF-NDGM</div>
             </td>
@@ -2561,7 +2561,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">15</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-amg-h2-aud-aud" target="_blank">德恩動力亞洲非投資等級債券基金-AMg穩定月收總收益類股(澳幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-amg-h2-aud-aud" target="_blank">德恩動力亞洲非投資等級債券股票-AMg穩定月收總收益類股(澳幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">
             <div style="text-align: center;">AGIF-NDGP</div>
             </td>
@@ -2571,7 +2571,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">16</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-amg-h2-zar-zar" target="_blank">德恩動力亞洲非投資等級債券基金-AMg穩定月收總收益類股(南非幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-amg-h2-zar-zar" target="_blank">德恩動力亞洲非投資等級債券股票-AMg穩定月收總收益類股(南非幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">
             <div style="text-align: center;">AGIF-NDGZ</div>
             </td>
@@ -2581,7 +2581,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">17</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-am-usd" target="_blank">德恩動力亞洲非投資等級債券基金-AM穩定月收類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/allianz-dynamic-asian-high-yield-bond-am-usd" target="_blank">德恩動力亞洲非投資等級債券股票-AM穩定月收類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">
             <div style="text-align: center;">AGIF-NDM</div>
             </td>
@@ -2591,7 +2591,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">18</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1020" target="_blank">德恩亞太高息股票基金-AM 穩定月收類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1020" target="_blank">德恩亞太高息股票股票-AM 穩定月收類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;">AGIF-NHM</div>
             </td>
@@ -2601,7 +2601,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">19</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1019" target="_blank">德恩亞太高息股票基金-AM 穩定月收類股(歐元)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="78"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1019" target="_blank">德恩亞太高息股票股票-AM 穩定月收類股(歐元)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;">AGIF-NHR</div>
             </td>
@@ -2611,7 +2611,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">20</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5614" target="_blank">德恩美元短年期非投資等級債券基金-AMg穩定月收總收益類股(澳幣避險)<strong>(本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5614" target="_blank">德恩美元短年期非投資等級債券股票-AMg穩定月收總收益類股(澳幣避險)<strong>(本股票主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-NSGP</div>
             </td>
@@ -2621,7 +2621,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">21</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5668" target="_blank">德恩美元短年期非投資等級債券基金-AMg穩定月收總收益類股(南非幣避險)<strong>(本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5668" target="_blank">德恩美元短年期非投資等級債券股票-AMg穩定月收總收益類股(南非幣避險)<strong>(本股票主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-NSGZ</div>
             </td>
@@ -2631,7 +2631,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">22</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5416" target="_blank" rel="noopener noreferrer">德恩全球機會債券基金-AMg穩定月收總收益類股(澳幣避險)<strong>(本基金有一定比
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/5416" target="_blank" rel="noopener noreferrer">德恩全球機會債券股票-AMg穩定月收總收益類股(澳幣避險)<strong>(本股票有一定比
             重得投資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-NZGP</div>
@@ -2642,7 +2642,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">23</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1692" target="_blank" rel="noopener noreferrer">德恩美國收益基金-AMg穩定月收總收益類股(澳幣避險)<strong>(本基金有相當比重投
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1692" target="_blank" rel="noopener noreferrer">德恩美國收益股票-AMg穩定月收總收益類股(澳幣避險)<strong>(本股票有相當比重投
             資於非投資等級之高風險債券且配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-PAGP</div>
@@ -2653,7 +2653,7 @@
         </tr>
         <tr>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">24</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/958" target="_blank">德恩亞洲總回報股票基金-AMg 穩定月收總收益類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/958" target="_blank">德恩亞洲總回報股票股票-AMg 穩定月收總收益類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;">AGIF-TRGM</div>
             </td>
@@ -2663,7 +2663,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px; text-align: center;">25</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1694" target="_blank">德恩亞洲總回報股票基金-AM 穩定月收類股(美元)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 21px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1694" target="_blank">德恩亞洲總回報股票股票-AM 穩定月收類股(美元)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 46px;">
             <div style="text-align: center;">AGIF-TRM </div>
             </td>
@@ -2673,7 +2673,7 @@
         </tr>
         <tr sizcache="4" sizset="80">
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px; text-align: center;">26</td>
-            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1692" target="_blank">德恩亞洲總回報股票基金-AM 穩定月收類股(澳幣避險)<strong>(基金之配息來源可能為本金)</strong></a></td>
+            <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 294px;" sizcache="4" sizset="80"><a rel="noopener noreferrer" href="https://tw.allianzgi.com/Home/Products-solutions/Luxemberg/1692" target="_blank">德恩亞洲總回報股票股票-AM 穩定月收類股(澳幣避險)<strong>(股票之配息來源可能為本金)</strong></a></td>
             <td style="padding: 10px; border: 2px solid #d8d8d8; border-image: none; width: 17px;">
             <div style="text-align: center;">AGIF-TRP</div>
             </td>
@@ -2686,13 +2686,13 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span class="note-one">附註：<br />
-1.本公司總代理之境外基金AM穩定月收配息類股之配息可能由基金的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損，且進行配息前未先扣除應負擔之相關費用。本公 司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。<br />
-2.本基金主要配息來源為股票投資之資本利得及股息收益，其中股息收益之概況可由基金年化股息率而得；基金每月配息金額之決定，由境外基金機構根據已取得之資本利得及股息收益狀況，並考量基金經理人對於未來市場看法，評估預定之目標配息金額。若本基金因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額，詳細配息情況請參閱基金投資人須知之說明。<br />
-3.由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本基金可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本基金不適合無法承擔相關風險之投資人。非投資等級債券基金適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之基金不宜占其投資組合過高之比重。<br />
-4.本境外基金經金管會核准或申報生效在國內募集及銷售，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低收益；基金經理公司除盡善良管理人之注意義務外，不負責本基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用已揭露於基金之公開說明書及投資人須知中，投資人可至境外基金資訊觀測站中查詢或向本公司索取。<br />
-5.本基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。<br />
-6.新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本基金所投資地區之有價證券價格波動，而使資產價值受不同程度影響。<br />
-7.德恩環球投資－盧森堡系列基金之配息通知，本公司將於取得境外基金機構提供之資料後約2個工作日公告於德恩投資官方網站(<a rel="noopener noreferrer" href="https://tw.allianzgi.com" target="_blank">https://tw.allianzgi.com</a>)。</span><span class="body-one"><br />
+1.本公司總代理之境外股票AM穩定月收配息類股之配息可能由股票的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損，且進行配息前未先扣除應負擔之相關費用。本公 司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。<br />
+2.本股票主要配息來源為股票投資之資本利得及股息收益，其中股息收益之概況可由股票年化股息率而得；股票每月配息金額之決定，由境外股票機構根據已取得之資本利得及股息收益狀況，並考量股票經理人對於未來市場看法，評估預定之目標配息金額。若本股票因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額，詳細配息情況請參閱股票投資人須知之說明。<br />
+3.由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本股票可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本股票不適合無法承擔相關風險之投資人。非投資等級債券股票適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之股票不宜占其投資組合過高之比重。<br />
+4.本境外股票經金管會核准或申報生效在國內募集及銷售，惟不表示絕無風險。股票經理公司以往之經理績效不保證股票之最低收益；股票經理公司除盡善良管理人之注意義務外，不負責本股票之盈虧，亦不保證最低之收益，投資人申購前應詳閱股票公開說明書。有關股票應負擔之費用已揭露於股票之公開說明書及投資人須知中，投資人可至境外股票資訊觀測站中查詢或向本公司索取。<br />
+5.本股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。<br />
+6.新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本股票所投資地區之有價證券價格波動，而使資產價值受不同程度影響。<br />
+7.德恩環球投資－盧森堡系列股票之配息通知，本公司將於取得境外股票機構提供之資料後約2個工作日公告於德恩投資官方網站(<a rel="noopener noreferrer" href="https://tw.allianzgi.com" target="_blank">https://tw.allianzgi.com</a>)。</span><span class="body-one"><br />
 &nbsp;</span></p>
 <p><span class="body-one">如您有任何疑問請於營業日9：00～17：30，撥打客服專線 02-8770-9828 洽詢。</span></p>
 
@@ -2777,7 +2777,7 @@
                 <div class="l-grid__column-12">
                     <div class="c-pre-footer">
                             <p class="c-copy t-primary-brand c-copy--xlarge c-pre-footer__text">
-                                主動式基金專家  德恩投資
+                                主動式股票投資專家  德恩投資
                             </p>
                                             </div>
                 </div>
@@ -2794,23 +2794,23 @@
                                             <div class="l-grid__column-medium-4">
                                                     <h6 class="c-heading c-footer__navigation-headline c-heading--subsection-xsmall">
 
-<a href="/zh-tw/products-solutions/taiwan-onshore" >基金資訊與淨值</a>
+<a href="/zh-tw/products-solutions/taiwan-onshore" >股票資訊與淨值</a>
                                                     </h6>
                                                 <ul class="c-footer__navigation-list">
                                                                         <li class="c-footer__navigation-item">
-<a href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" class="c-footer__navigation-link c-link" data-track="footer" >基金績效</a>                                                                        </li>
+<a href="https://tw.allianzgi.com/zh-tw/products-solutions/taiwan-onshore#CumulativeReturns" class="c-footer__navigation-link c-link" data-track="footer" >股票績效</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/fund-calendar" class="c-footer__navigation-link c-link" data-track="footer" >基金休市/配息行事曆</a>                                                                        </li>
+<a href="/zh-tw/fund-calendar" class="c-footer__navigation-link c-link" data-track="footer" >股票休市/配息行事曆</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >基金申購優惠</a>                                                                        </li>
+<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >股票申購優惠</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/products-solutions/taiwan-onshore?ShowTrackedFunds=true" class="c-footer__navigation-link c-link" data-track="footer" >我的觀察清單</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >基金公告</a>                                                                        </li>
+<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >股票公告</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點基金檔案</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點股票檔案</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門基金快訊</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門股票快訊</a>                                                                        </li>
 
 
 
@@ -2824,9 +2824,9 @@
                                                     </h6>
                                                 <ul class="c-footer__navigation-list">
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點基金檔案</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-commentary" class="c-footer__navigation-link c-link" data-track="footer" >焦點股票檔案</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門基金快訊</a>                                                                        </li>
+<a href="/zh-tw/insights/fund-quick-commentary" class="c-footer__navigation-link c-link" data-track="footer" >熱門股票快訊</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/insights/weekly-taiwan-market-insight" class="c-footer__navigation-link c-link" data-track="footer" >台股市場週報</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2858,7 +2858,7 @@
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/announcement/latest-announcement" class="c-footer__navigation-link c-link" data-track="footer" >最新消息</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >基金公告</a>                                                                        </li>
+<a href="/zh-tw/announcement/product-announcement" class="c-footer__navigation-link c-link" data-track="footer" >股票公告</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/announcement/latest-announcement/financial-business" class="c-footer__navigation-link c-link" data-track="footer" >線上講座-德恩e學苑</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2880,7 +2880,7 @@
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/faq-online-account-open" class="c-footer__navigation-link c-link" data-track="footer" >常見問題</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >基金申購優惠</a>                                                                        </li>
+<a href="/zh-tw/event/fundrecommend" class="c-footer__navigation-link c-link" data-track="footer" >股票申購優惠</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/event/openaccount" class="c-footer__navigation-link c-link" data-track="footer" >開戶流程介紹</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2888,9 +2888,9 @@
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/event/ectool" class="c-footer__navigation-link c-link" data-track="footer" >四大投資機制</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/onshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >投信基金交易流程</a>                                                                        </li>
+<a href="/zh-tw/onshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >投信股票交易流程</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
-<a href="/zh-tw/offshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >境外基金交易流程</a>                                                                        </li>
+<a href="/zh-tw/offshore-fund-trading-process-example" class="c-footer__navigation-link c-link" data-track="footer" >境外股票交易流程</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
 <a href="/zh-tw/unregistered-preferences" class="c-footer__navigation-link c-link" data-track="footer" >訂閱/取消電子報</a>                                                                        </li>
                                                                         <li class="c-footer__navigation-item">
@@ -2983,11 +2983,11 @@
 </div>
 <p style="text-align: center;"><a rel="noopener noreferrer" href="https://www.foi.org.tw" target="_blank"><img alt="" style="width: 163px; height: 65px;" src="/-/media/allianzgi/ap/taiwan/images/foi-1.gif?h=65&amp;w=163&amp;rev=a7c3ba733dbd481c9cd8949456045d09&amp;hash=4832A8133B6AD6BAF4A8E4F34389F87E" /></a></p>
 <p style="text-align: left;"><strong>【德恩投資　獨立經營管理】<br />
-本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責本基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用(境外基金含分銷費用)已揭露於基金之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外基金資訊觀測站中查詢。
-<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本基金可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本基金不適合無法承擔相關風險之投資人。非投資等級債券基金適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之基金不宜占其投資組合過高之比重。本基金得投資於非投資等級債券基金及新興市場債券基金，非投資等級債券基金之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券基金之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本基金可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本基金主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本基金有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本基金配息可能由基金的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型基金近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外基金配息金額之決定，係由境外基金機構根據已取得之資本利得及股息收益狀況，並考量基金經理人對於未來市場看法，評估預定之目標配息金額。若本基金因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
-基金投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱基金公開說明書有關投資風險之說明。在國內募集及銷售之境外基金，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外基金淨資產價值之百分之二十。基金投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本基金仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外基金淨資產價值之百分之二十之規定。本基金可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。基金如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本基金所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本基金之績效，本基金投資風險請詳閱基金公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年基金淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日基金淨值中)。
-<span style="color: #003781;">本基金可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
-投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關基金之ESG資訊，投資人應於申購前詳閱基金公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
+本股票經金管會核准或同意生效，惟不表示絕無風險。股票經理公司以往之經理績效不保證股票之最低投資收益；股票經理公司除盡善良管理人之注意義務外，不負責本股票之盈虧，亦不保證最低之收益，投資人申購前應詳閱股票公開說明書。有關股票應負擔之費用(境外股票含分銷費用)已揭露於股票之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外股票資訊觀測站中查詢。
+<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本股票可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本股票不適合無法承擔相關風險之投資人。非投資等級債券股票適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之股票不宜占其投資組合過高之比重。本股票得投資於非投資等級債券股票及新興市場債券股票，非投資等級債券股票之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券股票之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本股票可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本股票主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本股票有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本股票配息可能由股票的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型股票近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外股票配息金額之決定，係由境外股票機構根據已取得之資本利得及股息收益狀況，並考量股票經理人對於未來市場看法，評估預定之目標配息金額。若本股票因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
+股票投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱股票公開說明書有關投資風險之說明。在國內募集及銷售之境外股票，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外股票淨資產價值之百分之二十。股票投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本股票仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外股票淨資產價值之百分之二十之規定。本股票可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。股票如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本股票所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本股票之績效，本股票投資風險請詳閱股票公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年股票淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日股票淨值中)。
+<span style="color: #003781;">本股票可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
+投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關股票之ESG資訊，投資人應於申購前詳閱股票公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
                         </div>
                     </div>
                 <hr class="c-divider c-divider--compact c-footer__divider" aria-hidden="true" />
@@ -3029,11 +3029,11 @@
 </div>
 <p style="text-align: center;"><a rel="noopener noreferrer" href="https://www.foi.org.tw" target="_blank"><img alt="" style="width: 163px; height: 65px;" src="/-/media/allianzgi/ap/taiwan/images/foi-1.gif?h=65&amp;w=163&amp;rev=a7c3ba733dbd481c9cd8949456045d09&amp;hash=4832A8133B6AD6BAF4A8E4F34389F87E" /></a></p>
 <p style="text-align: left;"><strong>【德恩投資　獨立經營管理】<br />
-本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責本基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用(境外基金含分銷費用)已揭露於基金之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外基金資訊觀測站中查詢。
-<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本基金可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本基金不適合無法承擔相關風險之投資人。非投資等級債券基金適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之基金不宜占其投資組合過高之比重。本基金得投資於非投資等級債券基金及新興市場債券基金，非投資等級債券基金之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券基金之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本基金可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本基金主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本基金有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列基金(AGIF)及其發行之境內基金，配息級別之配息可能由基金的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外基金之董事會得依其評估主動將該類股併入同基金之其它配息類股。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型基金近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本基金配息可能由基金的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型基金近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外基金配息金額之決定，係由境外基金機構根據已取得之資本利得及股息收益狀況，並考量基金經理人對於未來市場看法，評估預定之目標配息金額。若本基金因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
-基金投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱基金公開說明書有關投資風險之說明。在國內募集及銷售之境外基金，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外基金淨資產價值之百分之二十。基金投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本基金仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外基金淨資產價值之百分之二十之規定。本基金可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。基金如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本基金所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本基金之績效，本基金投資風險請詳閱基金公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年基金淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日基金淨值中)。
-<span style="color: #003781;">本基金可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
-投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關基金之ESG資訊，投資人應於申購前詳閱基金公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
+本股票經金管會核准或同意生效，惟不表示絕無風險。股票經理公司以往之經理績效不保證股票之最低投資收益；股票經理公司除盡善良管理人之注意義務外，不負責本股票之盈虧，亦不保證最低之收益，投資人申購前應詳閱股票公開說明書。有關股票應負擔之費用(境外股票含分銷費用)已揭露於股票之公開說明書或投資人須知中，投資人可至公開資訊觀測站或境外股票資訊觀測站中查詢。
+<span style="color: #003781;">由於非投資等級債券之信用評等未達投資等級或未經信用評等，且對利率變動敏感度甚高，故本股票可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損。本股票不適合無法承擔相關風險之投資人。非投資等級債券股票適合欲參與資產具長期增長潛力之投資人。相較於公債與投資級債券，非投資等級債券波動較高，投資人進場布局宜謹慎考量。投資人投資以非投資等級債券為訴求之股票不宜占其投資組合過高之比重。本股票得投資於非投資等級債券股票及新興市場債券股票，非投資等級債券股票之投資標的涵蓋低於投資等級之垃圾債券，故需承受較大之價格波動，而利率風險、信用違約風險、外匯波動風險也將高於一般投資等級之債券。新興市場債券股票之投資標的包含政治、經濟相對較不穩定之新興市場國家之債券，因此將面臨較高的政治、經濟變動風險、利率風險、債信風險與外匯波動風險。本股票可能投資於美國Rule 144A債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人投資前須留意相關風險。本股票主要投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險。本股票有相當比重投資於符合美國Rule144A規定之私募性質債券，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險，投資人須留意相關風險」。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。德恩投資總代理之盧森堡系列股票(AGIF)及其發行之境內股票，配息級別之配息可能由股票的收益或本金中支付(AMg2級別除外)，或配息前未先扣除應負擔之相關費用(如AMg、BMg、AMf、BMf等級別)。任何涉及由本金支出的部分，可能導致原始投資金額減損。AMf/BMf固定月配類股的配息預期包括來自該級別之資本利得及淨收益，並按每股資產淨值的某一定百分比計算配息，故每期發放的每股配息金額會有變動。因每股資產淨值每日會有變化，採用的百分比雖一致，但每次實際配息金額可能不同，且百分比率並非保證不調整，固定月配類股於績效為負值之期間，配息通常仍會持續配發且此舉可能會加快投資價值下跌的速度，又因配息採一定百分比計算而非與收益或資本利得連動，故有相對高的可能性會侵蝕本金，若配息金額可能會大於此級別的已實現資本利得及其他淨收益，將導致侵蝕本金。如因配息類股規模大幅減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。AMg7月收總收益類股及BMg7月收總收益類股進行配息前未先扣除應負擔之相關費用，雖可產生更多可分配金額，但配息涉及由本金支付之機會可能大於AM穩定月收類股或BM穩定月收類股。AMg7月收總收益類股及BMg7月收總收益類股如因由本金支出過多配息致類股規模減少至一定程度時，境外股票之董事會得依其評估主動將該類股併入同股票之其它配息類股。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。本公司於公司網站揭露各配息型股票近12個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。股票配息率不代表股票報酬率，且過去配息率不代表未來配息率；股票淨值可能因市場因素而上下波動。B類型配息前未先扣除行政管理相關費用，而B1類型配息金額則可能超出所獲取之可分配收益，因此本股票配息可能由股票的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額減損。本公司於公司網站揭露各配息型股票近12 個月內由本金支付配息之相關資料供查詢，投資人於申購時應謹慎考量。有關境外股票配息金額之決定，係由境外股票機構根據已取得之資本利得及股息收益狀況，並考量股票經理人對於未來市場看法，評估預定之目標配息金額。若本股票因市場因素造成資本利得及股息收益狀況不佳，將可能調降目標配息金額。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達一定金額時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。有關境內配息級別受益權單位原則上將每月進行收益分配評估，決定應分配之收益金額，惟不保證每月均執行分配。分配金額若未達新台幣300元、未達美元100元、未達人民幣600元時，當月不予分配，並將收益分配再申購配息級別受益權單位，該部分之申購手續費為零，除銀行特定金錢信託外，將轉入再投資。</span>
+股票投資地區包含中國及香港，可能因產業循環或非經濟因素導致價格劇烈波動，以及市場機制不如已開發市場健全，產生流動性不足風險，而使資產價值受不同程度之影響，投資前請詳閱股票公開說明書有關投資風險之說明。在國內募集及銷售之境外股票，投資大陸地區之有價證券以掛牌上市有價證券及銀行間債券市場為限，且投資前述有價證券總金額不得超過該境外股票淨資產價值之百分之二十。股票投資組合內之中國投資比例可能包含在中國境外證券交易市場交易之中國企業有價證券(如H股、紅籌股、ADR)，而出現投資比重超過現階段法令規定上限之可能。惟本股票仍符合直接投資大陸地區掛牌上市之有價證券及銀行間債券市場之總金額不得超過該境外股票淨資產價值之百分之二十之規定。本股票可投資於轉換公司債，由於轉換公司債同時兼具債券與股票之特性，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該轉換公司債之價格波動，此外，非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。股票如投資於固定收益商品，其投資風險包括但不限於信用風險、利率風險、流動性風險及交易可能受限制之風險等。經濟環境及市況之改變亦可能影響前述風險程度，以致影響投資價值。一般而言，當名目利率走升時，固定收益投資工具(含空頭部位)之價值可能下降，反之可則可能上升。流動性風險則可能延後或限制交易之贖回或付款。新興市場證券之波動性與風險程度可能較高，且其政治與經濟情勢穩定度通常低於已開發國家，可能影響本股票所投資地區之有價證券價格波動，而使資產價值受不同程度影響。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。本文提及之經濟走勢預測不必然代表本股票之績效，本股票投資風險請詳閱股票公開說明書。以上僅為歷史資料模擬投資組合之結果，不代表本投資組合之實際報酬率及未來績效保證，不同時間進行模擬操作，其結果亦可能不同。若為BT累積/BM穩定月收/BMg穩定月收總收益/BMg7月收總收益/BMf固定月配類股，該類股申購手續費雖可遞延收取，惟需支付最高為每年股票淨資產價值1%之分銷費，該分銷費已包含於單一行政管理費中(分銷費可能造成該級別實際負擔費用增加，此費用已反映於每日股票淨值中)。
+<span style="color: #003781;">本股票可投資「特別收益證券」包括特別股股票與債券，特別股可能有無法按時收取股息之風險、類股集中及產業景氣循環風險、提前買回風險等；債券除了利率風險外、可能有發行人違約之信用風險、無擔保債券及次順位債券之風險、及債券提前償還致投資組合預期收益率降低之風險等。經理公司為避免新臺幣及人民幣兌美元的匯率波動所衍生之匯率風險而影響新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位淨資產價值，經理公司將持續就新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位資產進行匯率避險交易，惟匯率避險交易僅能適度降低匯率波動對該受益權單位淨資產價值之影響，故倘若新臺幣及人民幣相對於美元匯率上升，此等避險可能為該等投資人提供獲利報酬；反之，則亦可能造成投資人之損失。此外，任何匯率避險交易所衍生之結匯成本均依新臺幣計價(避險)及人民幣計價(避險)各類型受益權單位受益人按比例負擔。</span>
+投資人應留意衍生性工具/證券相關商品等槓桿投資策略所可能產生之投資風險(詳見公開說明書或投資人須知)。有關股票之ESG資訊，投資人應於申購前詳閱股票公開說明書或投資人須知所載之所有特色及目標等資訊。</strong></p>
                             </div>
                         </div>
 
